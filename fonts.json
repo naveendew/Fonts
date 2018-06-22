@@ -1,0 +1,31 @@
+{
+  "fonts": [
+    {
+      "language": "hindi",
+      "data": [
+        {
+          "name": "Yatra",
+          "url": "https://github.com/naveendew/Fonts/raw/master/YatraOne-Regular.ttf",
+          "iconurl": "https://raw.githubusercontent.com/naveendew/Fonts/master/ic-hin_first_letter_yatra-black-24px-xxxhdpi.png"
+        },
+        {
+          "name": "Rozha",
+          "url": "https://github.com/naveendew/Fonts/raw/master/RozhaOne-Regular.ttf",
+          "iconurl": "https://raw.githubusercontent.com/naveendew/Fonts/master/ic-hin_first_letter_rozha-black-24px-xxxhdpi.png"
+        },
+        {
+          "name": "Kalam",
+          "url": "https://github.com/naveendew/Fonts/raw/master/Kalam-Regular.ttf",
+          "iconurl": "https://raw.githubusercontent.com/naveendew/Fonts/master/ic-hin_first_letter_kalam_regular-black-24px-xxxhdpi.png"
+        },
+        {
+          "name": "Baloo",
+          "url": "https://github.com/naveendew/Fonts/raw/master/Baloo-Regular.ttf",
+          "iconurl": "https://raw.githubusercontent.com/naveendew/Fonts/master/ic-hin_first_letter_baloo-black-24px-xxxhdpi.png"
+        }
+      ]
+    
+    }
+  ]
+
+}
