@@ -6776,7 +6776,7 @@
             }
         },
         {
-            "type": "AUTHOR_LIST_TOP_AUTHOR",
+            "type": "AUTHOR_LIST_TOP_RATED",
             "data": {
                 "displayTitle": "टॉप रेटेड लेखक",
                 "pageUrl": "/authors/top-rated",
