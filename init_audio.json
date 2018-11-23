@@ -925,7 +925,7 @@
             "type": "PRATILIPI_AUDIO_LIST",
             "data": {
                 "displayTitle": "Audio List",
-                "pageUrl": "/audiolist",
+                "pageUrl": "/audio-list",
                 "list": [
         {
             "pratilipiId": 6755373519121496,
