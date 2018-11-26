@@ -12,6 +12,7 @@
                         "imageUrl": "https://0.ptlp.co/init/banner?language=HINDI&name=hin-101802-children-2.jpg",
                         "actionUrl": "/childrensday",
                         "apiName": "PratilipiListApi",
+                        "pageUrl": "/audio-list",
                         "apiRequest": {
                             "language": "HINDI",
                             "state": "PUBLISHED",
