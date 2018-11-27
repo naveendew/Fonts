@@ -62,7 +62,7 @@
             "type": "PRATILIPI_LIST",
             "data": {
                 "displayTitle": "लव स्टोरीज",
-                "pageUrl": "/collection/relationshipstories",
+                "pageUrl": "/collection/relationshipstories?type=popular",
                 "list": [
                     {
                         "pratilipiId": 4524562726256640,
