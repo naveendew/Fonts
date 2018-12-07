@@ -105,19 +105,19 @@
             "data": {
             "list": [
                 {
-                    "imageUrl": "http://....",
+                    "imageUrl": "https://0.ptlp.co/image/pratilipi/cover_recommendation?version=pb_05h2d_1520625527_7984681129.jpg&pratilipiId=124124424234324",
                     "pageUrl": "/events",
-                    "displayTitle": "all events"
+                    "displayTitle": "Events"
                 },
                 {
-                    "imageUrl": "http://.....",
+                    "imageUrl": "https://0.ptlp.co/image/pratilipi/cover_recommendation?version=pb_06dxd_1520857461_3543310165.jpg&pratilipiId=124124424234324",
                     "pageUrl": "/blog",
-                    "displayTitle": "blogs"
+                    "displayTitle": "Blogs"
                 },
                 {
-                    "imageUrl": "http://....",
+                    "imageUrl": "https://0.ptlp.co/image/pratilipi/cover_recommendation?version=pb_04p21_1520522382_7192919254.jpg&pratilipiId=124124424234324",
                     "pageUrl": "/videoseries",
-                    "displayTitle": "video series"
+                    "displayTitle": "Video Series"
                 }
             ]
             },
