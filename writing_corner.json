@@ -39,6 +39,7 @@
             "type": "ALL_PUBLISHED"
         },
         {
+            "data": {
             "list": [
                 {
                     "imageUrl": ".....",
@@ -52,6 +53,7 @@
                 }
             ],
             "type": "AUTHOR_GROUP"
+            }
         },
         {
             "data": {
@@ -99,6 +101,7 @@
             "type": "CURRENT_EVENT"
         },
         {
+            "data": {
             "list": [
                 {
                     "imageUrl": "http://....",
@@ -117,6 +120,7 @@
                 }
             ],
             "type": "SECOND_GROUP"
+            }
         }
     ]
 }
