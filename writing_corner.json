@@ -106,7 +106,7 @@
             "list": [
                 {
                     "imageUrl": "http://....",
-                    "pageUrl": "/event",
+                    "pageUrl": "/events",
                     "displayTitle": "all events"
                 },
                 {
