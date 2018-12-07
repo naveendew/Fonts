@@ -1,0 +1,122 @@
+{
+    "widgets": [
+        {
+            "data": {
+                "item": {
+                    "writePageUrl": "/pratilipi-write?id=6755373519208714",
+                    "pratilipiId": 6755373519208714,
+                    "language": "HINDI",
+                    "title": "tttuuu",
+                    "lastUpdatedDateMillis": 1544083762000,
+                    "authorId": 6800000000400132
+                },
+                "pageUrl": "/pratilipi-write?id=6755373519208714",
+                "displayTitle": "current draft"
+            },
+            "type": "CURRENT_DRAFT"
+        },
+        {
+            "data": {
+                "pageUrl": "",
+                "displayTitle": "New draft"
+            },
+            "type": "NEW_DRAFT"
+        },
+        {
+            "data": {
+                "list": [
+                    {
+                        "authorId": 6800000000400132,
+                        "lastUpdatedDateMillis": 1543913633000,
+                        "language": "HINDI",
+                        "pratilipiId": 6755373518769060,
+                        "title": "अर्जुन की प्रतिज्ञा  - मैथिलीशरण गुप्त | Mathilishran Gupt Mathilishran Gupt"
+                    }
+                ],
+                "pageUrl": "/me/stories",
+                "displayTitle": "all published"
+            },
+            "type": "ALL_PUBLISHED"
+        },
+        {
+            "list": [
+                {
+                    "imageUrl": ".....",
+                    "pageUrl": "/me/dashboard",
+                    "displayTitle": "author dashboard"
+                },
+                {
+                    "imageUrl": ".....",
+                    "pageUrl": "/authors/leaderboard",
+                    "displayTitle": "author leaderboard"
+                }
+            ],
+            "type": "AUTHOR_GROUP"
+        },
+        {
+            "data": {
+                "list": [
+                    {
+                        "writePageUrl": "/pratilipi-write?id=6755373519208709",
+                        "pratilipiId": 6755373519208709,
+                        "language": "HINDI",
+                        "title": "hsyxyx",
+                        "lastUpdatedDateMillis": 1544083644000,
+                        "authorId": 6800000000400132
+                    },
+                    {
+                        "writePageUrl": "/pratilipi-write?id=6755373519208699",
+                        "pratilipiId": 6755373519208699,
+                        "language": "HINDI",
+                        "title": "kfiv",
+                        "lastUpdatedDateMillis": 1544083577000,
+                        "authorId": 6800000000400132
+                    }
+                ],
+                "pageUrl": "/me/stories/drafts",
+                "displayTitle": "all drafts"
+            },
+            "type": "ALL_DRAFTS"
+        },
+        {
+            "data": {
+                "pageUrl": "/faq",
+                "displayTitle": "FAQ"
+            },
+            "type": "FAQ"
+        },
+        {
+            "data": {
+                "item": {
+                    "eventId": 6900000000000078,
+                    "slug": "fxywqpab55",
+                    "language": "HINDI",
+                    "title": "प्रतिलिपि कथा सम्मान 2018"
+                },
+                "pageUrl": "/events/प्रतिलिपि कथा सम्मान 2018-fxywqpab55",
+                "displayTitle": "current event"
+            },
+            "type": "CURRENT_EVENT"
+        },
+        {
+            "list": [
+                {
+                    "imageUrl": "http://....",
+                    "pageUrl": "/event",
+                    "displayTitle": "all events"
+                },
+                {
+                    "imageUrl": "http://.....",
+                    "pageUrl": "/blog",
+                    "displayTitle": "blogs"
+                },
+                {
+                    "imageUrl": "http://....",
+                    "pageUrl": "/videoseries",
+                    "displayTitle": "video series"
+                }
+            ],
+            "type": "SECOND_GROUP"
+        }
+    ]
+}
