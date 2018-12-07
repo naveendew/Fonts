@@ -51,9 +51,10 @@
                     "pageUrl": "/authors/leaderboard",
                     "displayTitle": "author leaderboard"
                 }
-            ],
+            ]
+            },
             "type": "AUTHOR_GROUP"
-            }
+            
         },
         {
             "data": {
@@ -118,9 +119,10 @@
                     "pageUrl": "/videoseries",
                     "displayTitle": "video series"
                 }
-            ],
+            ]
+            },
             "type": "SECOND_GROUP"
-            }
+            
         }
     ]
 }
