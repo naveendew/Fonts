@@ -43,12 +43,12 @@
             "list": [
                 {
                     "imageUrl": ".....",
-                    "pageUrl": "/me/dashboard",
+                    "pageUrl": "/author_dashboard",
                     "displayTitle": "author dashboard"
                 },
                 {
                     "imageUrl": ".....",
-                    "pageUrl": "/authors/leaderboard",
+                    "pageUrl": "/author_leaderboard",
                     "displayTitle": "author leaderboard"
                 }
             ]
