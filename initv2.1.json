@@ -1,0 +1,2599 @@
+{
+    "widgets": [
+        {
+            "type": "BANNER_IMAGE_LIST",
+            "data": {
+                "displayTitle": "",
+                "pageUrl": "",
+                "list": [
+                    {
+                        "bannerId": "https___0_ptlp_co_init_banner_language_HINDI_name_audio_hin_jpg",
+                        "title": "ऑडियो रचनाएँ",
+                        "imageUrl": "https://0.ptlp.co/init/banner?language=HINDI&name=audio-hin.jpg",
+                        "pageUrl": "/audio-list",
+                        "actionUrl": "/audio-list",
+                        "apiName": "PratilipiAudioListApi",
+                        "apiRequest": {
+                            "language": "HINDI",
+                            "state": "PUBLISHED"
+                        }
+                    },
+                    {
+                        "bannerId": "https___1_ptlp_co_init_banner_language_HINDI_name_hin_121801_event_4_jpg",
+                        "title": "किचन स्टार || पाक कला प्रतियोगिता",
+                        "imageUrl": "https://1.ptlp.co/init/banner?language=HINDI&name=hin-121801-event-4.jpg",
+                        "actionUrl": "/event/किचन-स्टार-पाक-कला-प्रतियोगिता-09yudsjhrm",
+                        "apiName": "PratilipiListApi",
+                        "apiRequest": {
+                            "language": "HINDI",
+                            "state": "PUBLISHED",
+                            "eventId": 6900000000000134
+                        }
+                    },
+                    {
+                        "bannerId": "https___2_ptlp_co_init_banner_language_HINDI_name_hin_121801_top_rated_1_jpg",
+                        "title": "2018 की सर्वाधिक रेटिंग वाली कहानियाँ",
+                        "imageUrl": "https://2.ptlp.co/init/banner?language=HINDI&name=hin-121801-top_rated-1.jpg",
+                        "actionUrl": "/hirateddec",
+                        "apiName": "PratilipiListApi",
+                        "apiRequest": {
+                            "language": "HINDI",
+                            "state": "PUBLISHED",
+                            "listName": "hirateddec"
+                        }
+                    },
+                    {
+                        "bannerId": "https___3_ptlp_co_init_banner_language_HINDI_name_hin_101801_event_4_jpg",
+                        "title": "प्रतिलिपि लघुकथा सम्मान - 2018",
+                        "imageUrl": "https://3.ptlp.co/init/banner?language=HINDI&name=hin-101801-event-4.jpg",
+                        "actionUrl": "/event/15gft7fc46",
+                        "apiName": "PratilipiListApi",
+                        "apiRequest": {
+                            "language": "HINDI",
+                            "state": "PUBLISHED",
+                            "eventId": 6900000000000125
+                        }
+                    },
+                    {
+                        "bannerId": "https___4_ptlp_co_init_banner_language_HINDI_name_hin_121801_social_3_jpg",
+                        "title": "सामाजिक कहानियाँ",
+                        "imageUrl": "https://4.ptlp.co/init/banner?language=HINDI&name=hin-121801-social-3.jpg",
+                        "actionUrl": "/samajik-kahaniya",
+                        "apiName": "PratilipiListApi",
+                        "apiRequest": {
+                            "language": "HINDI",
+                            "state": "PUBLISHED",
+                            "listName": "samajik-kahaniya"
+                        }
+                    },
+                    {
+                        "bannerId": "https___5_ptlp_co_init_banner_language_HINDI_name_hin_121801_articles_2_jpg",
+                        "title": "लेख - संग्रह",
+                        "imageUrl": "https://5.ptlp.co/init/banner?language=HINDI&name=hin-121801-articles-2.jpg",
+                        "actionUrl": "/articlesdecember",
+                        "apiName": "PratilipiListApi",
+                        "apiRequest": {
+                            "language": "HINDI",
+                            "state": "PUBLISHED",
+                            "listName": "articlesdecember"
+                        }
+                    }
+                ]
+            },
+            "style": "DEFAULT"
+        },
+        {
+            "type": "CATEGORY_LIST",
+            "data": {
+                "displayTitle": "अन्वेषण करें",
+                "pageUrl": "/collections",
+                "list": [
+                    {
+                        "pageUrl": "/collection/article-relegion-and-spiritual?filter=trending",
+                        "nameEn": "relegion-and-spiritual",
+                        "name": "आध्यात्मिक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/relegion-and-spiritual.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/relegion-and-spiritual_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/upanyas?filter=trending",
+                        "nameEn": "novels",
+                        "name": "उपन्यास",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/novels.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/novels_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/article-history?filter=trending",
+                        "nameEn": "history",
+                        "name": "ऐतिहासिक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/history.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/history_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/poem-kshanika?filter=trending",
+                        "nameEn": "kshanika",
+                        "name": "क्षणिका",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/kshanika.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/kshanika_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/gazals?filter=trending",
+                        "nameEn": "gazal",
+                        "name": "गज़ल",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/gazal.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/gazal_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/poem-geet?filter=trending",
+                        "nameEn": "geet",
+                        "name": "गीत",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/geet.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/geet_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/poem-short-poems?filter=trending",
+                        "nameEn": "short-poems",
+                        "name": "छोटी कवितायें",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/short-poems.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/short-poems_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/poem-life?filter=trending",
+                        "nameEn": "life",
+                        "name": "जीवन",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/life.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/life_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/jivani-evam-atmakatha?filter=trending",
+                        "nameEn": "biography",
+                        "name": "जीवनी",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/biography.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/biography_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/article-information?filter=trending",
+                        "nameEn": "information",
+                        "name": "ज्ञानवर्धक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/information.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/information_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/poem-doha?filter=trending",
+                        "nameEn": "doha",
+                        "name": "दोहा",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/doha.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/doha_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/drama?filter=trending",
+                        "nameEn": "drama",
+                        "name": "नाटक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/drama.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/drama_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/article-letters?filter=trending",
+                        "nameEn": "letters",
+                        "name": "पत्र",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/letters.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/letters_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/article-discussion?filter=trending",
+                        "nameEn": "discussion",
+                        "name": "परिचर्चा",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/discussion.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/discussion_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/swad-ka-tadka?filter=trending",
+                        "nameEn": "cooking",
+                        "name": "पाककला",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/cooking.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/cooking_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/family?filter=trending",
+                        "nameEn": "family",
+                        "name": "पारिवारिक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/family.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/family_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/mythology?filter=trending",
+                        "nameEn": "mythology",
+                        "name": "पौराणिक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/mythology.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/mythology_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/lovestories?filter=trending",
+                        "nameEn": "romance",
+                        "name": "प्रेम",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/romance.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/romance_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/moral-inspiring?filter=trending",
+                        "nameEn": "moral-inspiring",
+                        "name": "प्रेरक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/moral-inspiring.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/moral-inspiring_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/childhood-stories?filter=trending",
+                        "nameEn": "children",
+                        "name": "बाल-साहित्य",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/children.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/children_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/poem-muktak?filter=trending",
+                        "nameEn": "muktak",
+                        "name": "मुक्तक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/muktak.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/muktak_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/yatra-vrutant?filter=trending",
+                        "nameEn": "travel",
+                        "name": "यात्रा-वृतांत",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/travel.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/travel_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/politics?filter=trending",
+                        "nameEn": "politics",
+                        "name": "राजनैतिक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/politics.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/politics_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/laghuktha?filter=trending",
+                        "nameEn": "shortstories",
+                        "name": "लघुकथा",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/shortstories.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/shortstories_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/article-conceptual?filter=trending",
+                        "nameEn": "conceptual",
+                        "name": "वैचारिक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/conceptual.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/conceptual_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/poem-sher?filter=trending",
+                        "nameEn": "sher",
+                        "name": "शेर",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/sher.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/sher_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/article-reviews?filter=trending",
+                        "nameEn": "reviews",
+                        "name": "समीक्षा",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/reviews.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/reviews_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/suspense-aur-thriller?filter=trending",
+                        "nameEn": "suspense",
+                        "name": "सस्पेंस / थ्रिलर",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/suspense.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/suspense_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/experience?filter=trending",
+                        "nameEn": "experiences-and-memories",
+                        "name": "संस्मरण",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/experiences-and-memories.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/experiences-and-memories_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/samajik-kahaniya?filter=trending",
+                        "nameEn": "social",
+                        "name": "सामाजिक",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/social.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/social_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/women?filter=trending",
+                        "nameEn": "women",
+                        "name": "स्त्री - विमर्श",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/women.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/women_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/self-help?filter=trending",
+                        "nameEn": "selfhelp",
+                        "name": "स्व विकास",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/selfhelp.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/selfhelp_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/article-health?filter=trending",
+                        "nameEn": "health",
+                        "name": "स्वास्थ्य",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/health.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/health_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/hasya-vyangya?filter=trending",
+                        "nameEn": "comedy",
+                        "name": "हास्य-व्यंग्य",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/comedy.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/comedy_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/poem-hasyakavya?filter=trending",
+                        "nameEn": "hasyakavya",
+                        "name": "हास्यकाव्य",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/hasyakavya.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/hasyakavya_small.jpg"
+                    },
+                    {
+                        "pageUrl": "/collection/horror?filter=trending",
+                        "nameEn": "horror",
+                        "name": "हॉरर",
+                        "imageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/horror.jpg",
+                        "smallImageUrl": "https://0.ptlp.co/resource-all/pratilipi-category-select-banners/horror_small.jpg"
+                    }
+                ]
+            },
+            "style": "DEFAULT"
+        },
+        {
+            "type": "PRATILIPI_LIST",
+            "data": {
+                "displayTitle": "आपके लिए",
+                "pageUrl": "/collection/for-you",
+                "list": [
+                    {
+                        "pratilipiId": 6094803600146432,
+                        "title": "एक सपने का सच होना",
+                        "titleEn": "ek sapane ka sach hona",
+                        "displayTitle": "एक सपने का सच होना",
+                        "language": "HINDI",
+                        "authorId": 5686723667296256,
+                        "pageUrl": "/story/एक-सपने-का-सच-होना-kz0fssbr6thf",
+                        "slug": "/story/एक-सपने-का-सच-होना-kz0fssbr6thf",
+                        "slugEn": "/story/ek-sapane-ka-sach-hona-kz0fssbr6thf",
+                        "readPageUrl": "/read?id=6094803600146432",
+                        "writePageUrl": "/pratilipi-write?id=6094803600146432",
+                        "newReadPageUrl": "/read/एक-सपने-का-सच-होना-एक-सपने-का-सच-होना-kz0fssbr6thf-t019n585315h027",
+                        "coverImageUrl": "https://2.ptlp.co/pratilipi/cover?pratilipiId=6094803600146432&version=1474360929411",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1474723042000,
+                        "lastUpdatedDateMillis": 1541782007000,
+                        "pageCount": 1,
+                        "readingTime": 714,
+                        "readCount": 9399,
+                        "fbLikeShareCount": 996,
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5686723667296256,
+                            "name": "सुमन  बाजपेयी ",
+                            "displayName": "सुमन  बाजपेयी ",
+                            "fullName": "सुमन  बाजपेयी ",
+                            "fullNameEn": "Suman Bajpai",
+                            "pageUrl": "/user/सुमन-बाजपेयी-t9zs2uo8yw",
+                            "slug": "/user/सुमन-बाजपेयी-t9zs2uo8yw",
+                            "slugEn": "/user/suman-bajpai-t9zs2uo8yw",
+                            "profileImageUrl": "https://1.ptlp.co/author/image?authorId=5686723667296256&version=1465299071000",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 48,
+                        "ratingCount": 146,
+                        "averageRating": 4.390410958904109,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 5558547139002368,
+                        "title": "अधुरी एक कहाणी",
+                        "titleEn": "adhuri ek kahani",
+                        "displayTitle": "अधुरी एक कहाणी",
+                        "language": "MARATHI",
+                        "authorId": 6554230913499136,
+                        "pageUrl": "/story/अधुरी-एक-कहाणी-duchgmkpdybz",
+                        "slug": "/story/अधुरी-एक-कहाणी-duchgmkpdybz",
+                        "slugEn": "/story/adhuri-ek-kahani-duchgmkpdybz",
+                        "readPageUrl": "/read?id=5558547139002368",
+                        "writePageUrl": "/pratilipi-write?id=5558547139002368",
+                        "newReadPageUrl": "/read/अधुरी-एक-कहाणी-duchgmkpdybz-2z414j52n715604",
+                        "coverImageUrl": "https://0.ptlp.co/pratilipi/cover",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1494265920000,
+                        "lastUpdatedDateMillis": 1494265920000,
+                        "pageCount": 0,
+                        "readingTime": 95,
+                        "readCount": 2098,
+                        "fbLikeShareCount": 1,
+                        "author": {
+                            "authorId": 6554230913499136,
+                            "name": "आशा नवले",
+                            "displayName": "आशा नवले",
+                            "fullName": "आशा नवले",
+                            "fullNameEn": "Asha  Navale",
+                            "pageUrl": "/user/आशा-नवले-9l1mb10xg4",
+                            "slug": "/user/आशा-नवले-9l1mb10xg4",
+                            "slugEn": "/user/asha-navale-9l1mb10xg4",
+                            "profileImageUrl": "https://1.ptlp.co/author/image?authorId=6554230913499136&version=1462967025000",
+                            "language": "MARATHI"
+                        },
+                        "reviewCount": 0,
+                        "ratingCount": 14,
+                        "averageRating": 3.142857142857143,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 6040003977674752,
+                        "title": "एक अधुरी प्रेम कहाणी",
+                        "titleEn": "ek adhuri prem kahani",
+                        "displayTitle": "एक अधुरी प्रेम कहाणी",
+                        "language": "MARATHI",
+                        "authorId": 4711042811691008,
+                        "pageUrl": "/story/एक-अधुरी-प्रेम-कहाणी-z5ry95ytuh08",
+                        "slug": "/story/एक-अधुरी-प्रेम-कहाणी-z5ry95ytuh08",
+                        "slugEn": "/story/ek-adhuri-prem-kahani-z5ry95ytuh08",
+                        "readPageUrl": "/read?id=6040003977674752",
+                        "writePageUrl": "/pratilipi-write?id=6040003977674752",
+                        "newReadPageUrl": "/read/एक-अधुरी-प्रेम-कहाणी-z5ry95ytuh08-9m5r72uv1651113",
+                        "coverImageUrl": "https://2.ptlp.co/pratilipi/cover?pratilipiId=6040003977674752&version=5afee693-24f3-4212-a92c-4cfd8d810cce",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1528758779000,
+                        "lastUpdatedDateMillis": 1541771219000,
+                        "pageCount": 0,
+                        "readingTime": 3981,
+                        "readCount": 11681,
+                        "fbLikeShareCount": 0,
+                        "tags": [
+                            {
+                                "id": 5663698419974144,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 4711042811691008,
+                            "name": "अशोक महाजन",
+                            "displayName": "अशोक महाजन",
+                            "fullName": "अशोक महाजन",
+                            "fullNameEn": "Ashok Mahajan",
+                            "pageUrl": "/user/अशोक-महाजन-gl80chycf5",
+                            "slug": "/user/अशोक-महाजन-gl80chycf5",
+                            "slugEn": "/user/ashok-mahajan-gl80chycf5",
+                            "profileImageUrl": "https://3.ptlp.co/author/image?authorId=4711042811691008&version=07396481-d69d-4fbd-a66d-5824a4243aa4",
+                            "language": "MARATHI"
+                        },
+                        "reviewCount": 61,
+                        "ratingCount": 148,
+                        "averageRating": 4.128378378378378,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 6291264679968768,
+                        "title": "आँख की किरकिरी",
+                        "titleEn": "ankh ki kirkiri",
+                        "displayTitle": "आँख की किरकिरी",
+                        "language": "HINDI",
+                        "authorId": 5703288141905920,
+                        "pageUrl": "/story/आँख-की-किरकिरी-d5pfucbxfkqr",
+                        "slug": "/story/आँख-की-किरकिरी-d5pfucbxfkqr",
+                        "slugEn": "/story/ankh-ki-kirkiri-d5pfucbxfkqr",
+                        "readPageUrl": "/read?id=6291264679968768",
+                        "writePageUrl": "/pratilipi-write?id=6291264679968768",
+                        "newReadPageUrl": "/read/आँख-की-किरकिरी-पहला-भाग-d5pfucbxfkqr-6a13m686294n757",
+                        "coverImageUrl": "https://3.ptlp.co/pratilipi/cover?pratilipiId=6291264679968768&version=1491989771914",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1529398996000,
+                        "lastUpdatedDateMillis": 1541783620000,
+                        "pageCount": 0,
+                        "readingTime": 20921,
+                        "readCount": 12370,
+                        "fbLikeShareCount": 1250,
+                        "tags": [
+                            {
+                                "id": 6261987095871488,
+                                "name": "उपन्यास",
+                                "nameEn": "novels",
+                                "pageUrl": "/categories/novels"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5703288141905920,
+                            "name": "रबीन्द्रनाथ ठाकुर",
+                            "displayName": "रबीन्द्रनाथ ठाकुर",
+                            "fullName": "रबीन्द्रनाथ ठाकुर",
+                            "fullNameEn": "Rabindranath Tagor",
+                            "pageUrl": "/user/रबीन्द्रनाथ-ठाकुर-8y9oeoz40c",
+                            "slug": "/user/रबीन्द्रनाथ-ठाकुर-8y9oeoz40c",
+                            "slugEn": "/user/rabindranath-tagor-8y9oeoz40c",
+                            "profileImageUrl": "https://0.ptlp.co/author/image?authorId=5703288141905920&version=1491990121137",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 50,
+                        "ratingCount": 203,
+                        "averageRating": 4.374384236453202,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 6395415511957504,
+                        "title": "कंधो का बोझ",
+                        "titleEn": "kandhe ka bojh",
+                        "displayTitle": "कंधो का बोझ",
+                        "language": "HINDI",
+                        "authorId": 5627239818330112,
+                        "pageUrl": "/story/कंधो-का-बोझ-eo73ui3oqewy",
+                        "slug": "/story/कंधो-का-बोझ-eo73ui3oqewy",
+                        "slugEn": "/story/kandhe-ka-bojh-eo73ui3oqewy",
+                        "readPageUrl": "/read?id=6395415511957504",
+                        "writePageUrl": "/pratilipi-write?id=6395415511957504",
+                        "newReadPageUrl": "/read/कंधो-का-बोझ-eo73ui3oqewy-211h75521t5nb51",
+                        "coverImageUrl": "https://4.ptlp.co/pratilipi/cover?pratilipiId=6395415511957504&version=9b16c1e5-41dc-4b62-b5f3-de6eb805f6e1",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1515007948000,
+                        "lastUpdatedDateMillis": 1534914483000,
+                        "pageCount": 0,
+                        "readingTime": 167,
+                        "readCount": 3794,
+                        "fbLikeShareCount": 0,
+                        "tags": [
+                            {
+                                "id": 5956116436484096,
+                                "name": "सामाजिक",
+                                "nameEn": "social",
+                                "pageUrl": "/categories/social"
+                            },
+                            {
+                                "id": 6739392575048839,
+                                "name": "पारिवारिक",
+                                "nameEn": "family",
+                                "pageUrl": "/categories/family"
+                            },
+                            {
+                                "id": 6739392575048840,
+                                "name": "प्रेरक",
+                                "nameEn": "moral-inspiring",
+                                "pageUrl": "/categories/moral-inspiring"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5627239818330112,
+                            "name": "अविनाश तिवारी \"अविकाव्य\"",
+                            "displayName": "अविनाश तिवारी \"अविकाव्य\"",
+                            "fullName": "अविनाश तिवारी \"अविकाव्य\"",
+                            "fullNameEn": "Avinash Tiwari \"Avikavya\"",
+                            "pageUrl": "/user/अविनाश-तिवारी-5skp8m7hhw",
+                            "slug": "/user/अविनाश-तिवारी-5skp8m7hhw",
+                            "slugEn": "/user/avinash-tiwari-5skp8m7hhw",
+                            "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5627239818330112&version=1494052192624",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 8,
+                        "ratingCount": 25,
+                        "averageRating": 4.44,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 6070260384399360,
+                        "title": "अधुरी एक कहाणी",
+                        "titleEn": "",
+                        "displayTitle": "अधुरी एक कहाणी",
+                        "language": "MARATHI",
+                        "authorId": 5203023323201536,
+                        "pageUrl": "/story/अधुरी-एक-कहाणी-1r7nvapam6oc",
+                        "slug": "/story/अधुरी-एक-कहाणी-1r7nvapam6oc",
+                        "slugEn": "/story/1r7nvapam6oc",
+                        "readPageUrl": "/read?id=6070260384399360",
+                        "writePageUrl": "/pratilipi-write?id=6070260384399360",
+                        "newReadPageUrl": "/read/अधुरी-एक-कहाणी-1r7nvapam6oc-29qw4z51v45817b",
+                        "coverImageUrl": "https://0.ptlp.co/pratilipi/cover?pratilipiId=6070260384399360&version=6465804f-5524-40d7-a6f5-5f3387803b8e",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1527772008000,
+                        "lastUpdatedDateMillis": 1527772008000,
+                        "pageCount": 0,
+                        "readingTime": 152,
+                        "readCount": 8188,
+                        "fbLikeShareCount": 0,
+                        "author": {
+                            "authorId": 5203023323201536,
+                            "name": "सोनाली कारंडे (शब्दवेडी वैदही) \"शब्दवेडी वैदहि\"",
+                            "displayName": "सोनाली कारंडे (शब्दवेडी वैदही) \"शब्दवेडी वैदहि\"",
+                            "fullName": "सोनाली कारंडे (शब्दवेडी वैदही) \"शब्दवेडी वैदहि\"",
+                            "fullNameEn": "SONALI KARANDE",
+                            "pageUrl": "/user/सोनाली-कारंडे-शब्दवेडी-वैदही-ucabbgd5zs",
+                            "slug": "/user/सोनाली-कारंडे-शब्दवेडी-वैदही-ucabbgd5zs",
+                            "slugEn": "/user/sonali-karande-ucabbgd5zs",
+                            "profileImageUrl": "https://1.ptlp.co/author/image?authorId=5203023323201536&version=7bf2071b-570b-464c-8b34-cea8f6387676",
+                            "language": "MARATHI"
+                        },
+                        "reviewCount": 53,
+                        "ratingCount": 146,
+                        "averageRating": 3.993150684931507,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    }
+                ]
+            },
+            "style": "VERTICAL_SQUARE"
+        },
+        {
+            "type": "PRATILIPI_LIST",
+            "data": {
+                "displayTitle": "प्रेम कथाएं",
+                "pageUrl": "/collection/lovestories?filter=trending",
+                "list": [
+                    {
+                        "pratilipiId": 4524562726256640,
+                        "title": "सी - बीच पर दो पूर्व परिचित",
+                        "titleEn": "TWO FORGOTTEN FRIENDS ON SEA BEACH",
+                        "displayTitle": "सी - बीच पर दो पूर्व परिचित",
+                        "language": "HINDI",
+                        "authorId": 5138808873943040,
+                        "pageUrl": "/story/सी-बीच-पर-दो-पूर्व-परिचित-1jwzcxhm64kq",
+                        "slug": "/story/सी-बीच-पर-दो-पूर्व-परिचित-1jwzcxhm64kq",
+                        "slugEn": "/story/two-forgotten-friends-on-sea-beach-1jwzcxhm64kq",
+                        "readPageUrl": "/read?id=4524562726256640",
+                        "writePageUrl": "/pratilipi-write?id=4524562726256640",
+                        "newReadPageUrl": "/read/सी-बीच-पर-दो-पूर्व-परिचित-सी-बीच-पर-दो-पूर्व-परिचित-1jwzcxhm64kq-ib150t7k7493414",
+                        "coverImageUrl": "https://0.ptlp.co/pratilipi/cover?pratilipiId=4524562726256640&version=1467746325462",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1505144194000,
+                        "lastUpdatedDateMillis": 1541781928000,
+                        "pageCount": 1,
+                        "readingTime": 1050,
+                        "readCount": 8654,
+                        "fbLikeShareCount": 150,
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5138808873943040,
+                            "name": "ब्रजेंद्रनाथ मिश्रा",
+                            "displayName": "ब्रजेंद्रनाथ मिश्रा",
+                            "fullName": "ब्रजेंद्रनाथ मिश्रा",
+                            "fullNameEn": "Brajendra Nath Mishra",
+                            "pageUrl": "/user/ब्रजेंद्रनाथ-मिश्रा-7cn03kif87",
+                            "slug": "/user/ब्रजेंद्रनाथ-मिश्रा-7cn03kif87",
+                            "slugEn": "/user/brajendra-nath-mishra-7cn03kif87",
+                            "profileImageUrl": "https://0.ptlp.co/author/image?authorId=5138808873943040&version=1462348956000",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 52,
+                        "ratingCount": 150,
+                        "averageRating": 4.28,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4532282393100288,
+                        "title": "हवा में फड़फड़ाती चिट्ठी",
+                        "titleEn": "hawa me fadfadati chitthi",
+                        "displayTitle": "हवा में फड़फड़ाती चिट्ठी",
+                        "language": "HINDI",
+                        "authorId": 4862034497765376,
+                        "pageUrl": "/story/हवा-में-फड़फड़ाती-चिट्ठी-vwsqcyevuvir",
+                        "slug": "/story/हवा-में-फड़फड़ाती-चिट्ठी-vwsqcyevuvir",
+                        "slugEn": "/story/hawa-me-fadfadati-chitthi-vwsqcyevuvir",
+                        "readPageUrl": "/read?id=4532282393100288",
+                        "writePageUrl": "/pratilipi-write?id=4532282393100288",
+                        "newReadPageUrl": "/read/हवा-में-फड़फड़ाती-चिट्ठी-हवा-में-फड़फड़ाती-चिट्ठी-vwsqcyevuvir-9w8m57d61758321",
+                        "coverImageUrl": "https://3.ptlp.co/pratilipi/cover?pratilipiId=4532282393100288&version=1486023470451",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1528804152000,
+                        "lastUpdatedDateMillis": 1541781929000,
+                        "pageCount": 1,
+                        "readingTime": 1069,
+                        "readCount": 5708,
+                        "fbLikeShareCount": 250,
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 4862034497765376,
+                            "name": "श्रद्धा थवाईत",
+                            "displayName": "श्रद्धा थवाईत",
+                            "fullName": "श्रद्धा थवाईत",
+                            "fullNameEn": "Shraddha Thawait",
+                            "pageUrl": "/user/श्रद्धा-थवाईत-a4950lco9l",
+                            "slug": "/user/श्रद्धा-थवाईत-a4950lco9l",
+                            "slugEn": "/user/shraddha-thawait-a4950lco9l",
+                            "profileImageUrl": "https://1.ptlp.co/author/image?authorId=4862034497765376&version=",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 79,
+                        "ratingCount": 178,
+                        "averageRating": 4.438202247191011,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4556285077880832,
+                        "title": "कोचिंग वाला प्यार",
+                        "titleEn": "coching wala pyar",
+                        "displayTitle": "कोचिंग वाला प्यार",
+                        "language": "HINDI",
+                        "authorId": 5089478331858944,
+                        "pageUrl": "/story/कोचिंग-वाला-प्यार-pqjev34ipx05",
+                        "slug": "/story/कोचिंग-वाला-प्यार-pqjev34ipx05",
+                        "slugEn": "/story/coching-wala-pyar-pqjev34ipx05",
+                        "readPageUrl": "/read?id=4556285077880832",
+                        "writePageUrl": "/pratilipi-write?id=4556285077880832",
+                        "newReadPageUrl": "/read/कोचिंग-वाला-प्यार-कोचिंग-वाला-प्यार-pqjev34ipx05-5212i4s88552d10",
+                        "coverImageUrl": "https://2.ptlp.co/pratilipi/cover?pratilipiId=4556285077880832&version=1473508039039",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1528701982000,
+                        "lastUpdatedDateMillis": 1541781798000,
+                        "pageCount": 1,
+                        "readingTime": 1112,
+                        "readCount": 26937,
+                        "fbLikeShareCount": 2041,
+                        "tags": [
+                            {
+                                "id": 5956116436484096,
+                                "name": "सामाजिक",
+                                "nameEn": "social",
+                                "pageUrl": "/categories/social"
+                            },
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5089478331858944,
+                            "name": "राजेन्द्र सिंह नेगी",
+                            "displayName": "राजेन्द्र सिंह नेगी",
+                            "fullName": "राजेन्द्र सिंह नेगी",
+                            "fullNameEn": "rajendr singh negi",
+                            "pageUrl": "/user/राजेन्द्र-सिंह-नेगी-dl982wrxuo",
+                            "slug": "/user/राजेन्द्र-सिंह-नेगी-dl982wrxuo",
+                            "slugEn": "/user/rajendr-singh-negi-dl982wrxuo",
+                            "profileImageUrl": "https://4.ptlp.co/author/image?authorId=5089478331858944&version=bba0c25c-f27d-4f5e-849a-14c5de8cdc42",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 559,
+                        "ratingCount": 1112,
+                        "averageRating": 4.580935251798561,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4579353355616256,
+                        "title": "गुलाबी लिफाफा",
+                        "titleEn": "gulabi lifafa",
+                        "displayTitle": "गुलाबी लिफाफा",
+                        "language": "HINDI",
+                        "authorId": 5713454243512320,
+                        "pageUrl": "/story/गुलाबी-लिफाफा-yk3ejw43p92d",
+                        "slug": "/story/गुलाबी-लिफाफा-yk3ejw43p92d",
+                        "slugEn": "/story/gulabi-lifafa-yk3ejw43p92d",
+                        "readPageUrl": "/read?id=4579353355616256",
+                        "writePageUrl": "/pratilipi-write?id=4579353355616256",
+                        "newReadPageUrl": "/read/गुलाबी-लिफाफा-गुलाबी-लिफाफा-yk3ejw43p92d-1f55f242c19a701",
+                        "coverImageUrl": "https://1.ptlp.co/pratilipi/cover?pratilipiId=4579353355616256&version=1467880854305",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1467880854000,
+                        "lastUpdatedDateMillis": 1541781929000,
+                        "pageCount": 1,
+                        "readingTime": 252,
+                        "readCount": 9164,
+                        "fbLikeShareCount": 162,
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5713454243512320,
+                            "name": "डॉ.उपमा शर्मा",
+                            "displayName": "डॉ.उपमा शर्मा",
+                            "fullName": "डॉ.उपमा शर्मा",
+                            "fullNameEn": "Dr.upma sharma",
+                            "pageUrl": "/user/डॉ-उपमा-शर्मा-5qde1t4ydx",
+                            "slug": "/user/डॉ-उपमा-शर्मा-5qde1t4ydx",
+                            "slugEn": "/user/dr-upma-sharma-5qde1t4ydx",
+                            "profileImageUrl": "https://0.ptlp.co/author/image?authorId=5713454243512320&version=",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 52,
+                        "ratingCount": 154,
+                        "averageRating": 3.896103896103896,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4584126513414144,
+                        "title": "लव डावांडोल",
+                        "titleEn": "love danvadol",
+                        "displayTitle": "लव डावांडोल",
+                        "language": "HINDI",
+                        "authorId": 5176078586871808,
+                        "pageUrl": "/story/लव-डावांडोल-x5wnt27p156u",
+                        "slug": "/story/लव-डावांडोल-x5wnt27p156u",
+                        "slugEn": "/story/love-danvadol-x5wnt27p156u",
+                        "readPageUrl": "/read?id=4584126513414144",
+                        "writePageUrl": "/pratilipi-write?id=4584126513414144",
+                        "newReadPageUrl": "/read/लव-डावांडोल-लव-डावांडोल-x5wnt27p156u-95uq641hu155120",
+                        "coverImageUrl": "https://4.ptlp.co/pratilipi/cover?pratilipiId=4584126513414144&version=1491204640179",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1529319252000,
+                        "lastUpdatedDateMillis": 1541781930000,
+                        "pageCount": 0,
+                        "readingTime": 3209,
+                        "readCount": 13764,
+                        "fbLikeShareCount": 1274,
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5176078586871808,
+                            "name": "इरा टाक",
+                            "displayName": "इरा टाक",
+                            "fullName": "इरा टाक",
+                            "fullNameEn": "Era Tak",
+                            "pageUrl": "/user/इरा-टाक-loo641zlm5",
+                            "slug": "/user/इरा-टाक-loo641zlm5",
+                            "slugEn": "/user/era-tak-loo641zlm5",
+                            "profileImageUrl": "https://3.ptlp.co/author/image?authorId=5176078586871808&version=8f0266c9-30a2-41ab-b2e4-ad7ed5377ea6",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 177,
+                        "ratingCount": 417,
+                        "averageRating": 4.477218225419664,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4663725425426432,
+                        "title": "सच्चा लव",
+                        "titleEn": "True love",
+                        "displayTitle": "सच्चा लव",
+                        "language": "HINDI",
+                        "authorId": 5193126852427776,
+                        "pageUrl": "/story/सच्चा-लव-f0sk0kd6v9nk",
+                        "slug": "/story/सच्चा-लव-f0sk0kd6v9nk",
+                        "slugEn": "/story/true-love-f0sk0kd6v9nk",
+                        "readPageUrl": "/read?id=4663725425426432",
+                        "writePageUrl": "/pratilipi-write?id=4663725425426432",
+                        "newReadPageUrl": "/read/सच्चा-लव-सच्चा-लव-f0sk0kd6v9nk-a11h92r5w45e631",
+                        "coverImageUrl": "https://2.ptlp.co/pratilipi/cover?pratilipiId=4663725425426432&version=1477680974734",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1529399108000,
+                        "lastUpdatedDateMillis": 1541781930000,
+                        "pageCount": 0,
+                        "readingTime": 123,
+                        "readCount": 11997,
+                        "fbLikeShareCount": 397,
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5193126852427776,
+                            "name": "गौरव शर्मा",
+                            "displayName": "गौरव शर्मा",
+                            "fullName": "गौरव शर्मा",
+                            "fullNameEn": "Gaurav Sharma",
+                            "pageUrl": "/user/गौरव-शर्मा-lkjnx5cjus",
+                            "slug": "/user/गौरव-शर्मा-lkjnx5cjus",
+                            "slugEn": "/user/gaurav-sharma-lkjnx5cjus",
+                            "profileImageUrl": "https://1.ptlp.co/author/image?authorId=5193126852427776&version=1477679758570",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 56,
+                        "ratingCount": 159,
+                        "averageRating": 3.4213836477987423,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    }
+                ]
+            },
+            "style": "VERTICAL_SQUARE"
+        },
+        {
+            "type": "AUTHOR_LIST_MOST_ACTIVE",
+            "data": {
+                "displayTitle": "सबसे सक्रिय लेखक",
+                "pageUrl": "/userlist/most_active",
+                "list": [
+                    {
+                        "displayName": "प्रियंका",
+                        "name": "प्रियंका",
+                        "firstName": "प्रियंका",
+                        "profileImageUrl": "https://3.ptlp.co/author/image?authorId=6800000002608118&version=5d5bc9f3-1773-43e2-8251-8d6b3f79d555",
+                        "followCount": 2187,
+                        "authorId": 6800000002608118,
+                        "contentPublished": 66,
+                        "following": false,
+                        "pageUrl": "/user/प्रियंका-सुन्दरानी-409318geya",
+                        "totalReadCount": 43092
+                    },
+                    {
+                        "displayName": "अनिल",
+                        "name": "अनिल",
+                        "firstName": "अनिल",
+                        "profileImageUrl": "https://0.ptlp.co/author/image?authorId=6011525796986880&version=57de61ab-1743-41a0-9025-93f0d2ca0ebf",
+                        "followCount": 3309,
+                        "authorId": 6011525796986880,
+                        "contentPublished": 130,
+                        "following": false,
+                        "pageUrl": "/user/अनिल-गर्ग-5peywkoks2",
+                        "totalReadCount": 145175
+                    },
+                    {
+                        "displayName": "शिवराज सिंह",
+                        "name": "शिवराज सिंह",
+                        "firstName": "शिवराज सिंह",
+                        "profileImageUrl": "https://1.ptlp.co/author/image?authorId=6800000001182521&version=c938abef-f826-4567-a16b-25bbe0ff7c66",
+                        "followCount": 1445,
+                        "authorId": 6800000001182521,
+                        "contentPublished": 58,
+                        "following": false,
+                        "pageUrl": "/user/शिवराज-सिंह-राणा-7g0qs0660u",
+                        "totalReadCount": 53232
+                    },
+                    {
+                        "displayName": "Mritunjay",
+                        "name": "Mritunjay",
+                        "firstName": "Mritunjay",
+                        "profileImageUrl": "https://3.ptlp.co/author/image?authorId=6800000003506828&version=6e432d5d-eefa-4079-960d-9a700f6a2adc",
+                        "followCount": 148,
+                        "authorId": 6800000003506828,
+                        "contentPublished": 1,
+                        "following": false,
+                        "pageUrl": "/user/mritunjay-sharma-m908060vy3",
+                        "totalReadCount": 2781
+                    },
+                    {
+                        "displayName": "DrRajesh",
+                        "name": "DrRajesh",
+                        "firstName": "DrRajesh",
+                        "profileImageUrl": "https://1.ptlp.co/author/image?authorId=6800000002615901&version=9fd814e0-db80-4202-b3b4-a72ae598097e",
+                        "followCount": 2100,
+                        "authorId": 6800000002615901,
+                        "contentPublished": 75,
+                        "following": false,
+                        "pageUrl": "/user/drrajesh-mishra-3a7in4o171",
+                        "totalReadCount": 49430
+                    },
+                    {
+                        "displayName": "सीखो",
+                        "name": "सीखो",
+                        "firstName": "सीखो",
+                        "profileImageUrl": "https://1.ptlp.co/author/image?authorId=4529125631983616&version=aaf70805-af6b-48b9-912d-3b4338fa685c",
+                        "followCount": 2000,
+                        "authorId": 4529125631983616,
+                        "contentPublished": 48,
+                        "following": false,
+                        "pageUrl": "/user/सीखो-फाउंडेशन-hjd33qn1t2",
+                        "totalReadCount": 100336
+                    },
+                    {
+                        "displayName": "R.K",
+                        "name": "R.K",
+                        "firstName": "R.K",
+                        "profileImageUrl": "https://2.ptlp.co/author/image?authorId=6800000002693722&version=b4f368fe-7218-40c2-8f57-9351812dbb5f",
+                        "followCount": 293,
+                        "authorId": 6800000002693722,
+                        "contentPublished": 20,
+                        "following": false,
+                        "pageUrl": "/user/r-k-shrivastava-449384gu36",
+                        "totalReadCount": 4422
+                    },
+                    {
+                        "displayName": "प्रखर",
+                        "name": "प्रखर",
+                        "firstName": "प्रखर",
+                        "profileImageUrl": "https://1.ptlp.co/author/image?authorId=6800000003112041&version=e94a6b00-ced9-4cfe-9202-4a0e1926d213",
+                        "followCount": 400,
+                        "authorId": 6800000003112041,
+                        "contentPublished": 26,
+                        "following": false,
+                        "pageUrl": "/user/प्रखर-शर्मा-06ar1v80q2",
+                        "totalReadCount": 5242
+                    },
+                    {
+                        "displayName": "Ayushi",
+                        "name": "Ayushi",
+                        "firstName": "Ayushi",
+                        "profileImageUrl": "https://2.ptlp.co/author/image?authorId=6800000001062387&version=dc6783b9-8b1a-4560-aeaf-cf0b66594e83",
+                        "followCount": 2905,
+                        "authorId": 6800000001062387,
+                        "contentPublished": 38,
+                        "following": false,
+                        "pageUrl": "/user/ayushi-singh-887v20b8r6",
+                        "totalReadCount": 78020
+                    },
+                    {
+                        "displayName": "Priti",
+                        "name": "Priti",
+                        "firstName": "Priti",
+                        "profileImageUrl": "https://1.ptlp.co/author/image?authorId=6800000003183301&version=321dafc3-2100-4bee-8322-6dcf23915b70",
+                        "followCount": 1457,
+                        "authorId": 6800000003183301,
+                        "contentPublished": 13,
+                        "following": false,
+                        "pageUrl": "/user/priti-jha-07b9389oz9",
+                        "totalReadCount": 12384
+                    }
+                ]
+            },
+            "style": "MATERIAL"
+        },
+        {
+            "type": "PRATILIPI_LIST",
+            "data": {
+                "displayTitle": "प्रेरक",
+                "pageUrl": "/collection/moral-inspiring?filter=trending",
+                "list": [
+                    {
+                        "pratilipiId": 4507948531843072,
+                        "title": "★दही का इंतजाम★",
+                        "titleEn": "dahi ka imtjam",
+                        "displayTitle": "★दही का इंतजाम★",
+                        "language": "HINDI",
+                        "authorId": 4507910879576064,
+                        "pageUrl": "/story/★दही-का-इंतजाम★-r3waxx4jzh1e",
+                        "slug": "/story/★दही-का-इंतजाम★-r3waxx4jzh1e",
+                        "slugEn": "/story/dahi-ka-imtjam-r3waxx4jzh1e",
+                        "readPageUrl": "/read?id=4507948531843072",
+                        "writePageUrl": "/pratilipi-write?id=4507948531843072",
+                        "newReadPageUrl": "/read/★दही-का-इंतजाम★-दही-का-इंतजाम-r3waxx4jzh1e-p0g211g5547qu04",
+                        "coverImageUrl": "https://2.ptlp.co/pratilipi/cover?pratilipiId=4507948531843072&version=c9e1b12a-e2ae-4f22-b6c3-de3123b5ae17",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1511295537000,
+                        "lastUpdatedDateMillis": 1542890446000,
+                        "pageCount": 0,
+                        "readingTime": 93,
+                        "readCount": 786,
+                        "fbLikeShareCount": 0,
+                        "tags": [
+                            {
+                                "id": 5393684831928320,
+                                "name": "लघुकथा",
+                                "nameEn": "shortstories",
+                                "pageUrl": "/categories/shortstories"
+                            },
+                            {
+                                "id": 6739392575048840,
+                                "name": "प्रेरक",
+                                "nameEn": "moral-inspiring",
+                                "pageUrl": "/categories/moral-inspiring"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 4507910879576064,
+                            "name": "रमन त्रिपाठी \"Raman\"",
+                            "displayName": "रमन त्रिपाठी \"Raman\"",
+                            "fullName": "रमन त्रिपाठी \"Raman\"",
+                            "fullNameEn": "Raman त्रिपाठी \"Raman\"",
+                            "pageUrl": "/user/रमन-तिवारी-ycbpr3ai2b",
+                            "slug": "/user/रमन-तिवारी-ycbpr3ai2b",
+                            "slugEn": "/user/raman-tiwari-ycbpr3ai2b",
+                            "profileImageUrl": "https://4.ptlp.co/author/image?authorId=4507910879576064&version=f7ea491f-2f95-4b28-8e26-aba5b841b963",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 22,
+                        "ratingCount": 40,
+                        "averageRating": 4.6,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4642674437521408,
+                        "title": "दस्तक़",
+                        "titleEn": "dastak",
+                        "displayTitle": "दस्तक़",
+                        "language": "HINDI",
+                        "authorId": 6393987488284672,
+                        "pageUrl": "/story/दस्तक़-vlywx969e7bj",
+                        "slug": "/story/दस्तक़-vlywx969e7bj",
+                        "slugEn": "/story/dastak-vlywx969e7bj",
+                        "readPageUrl": "/read?id=4642674437521408",
+                        "writePageUrl": "/pratilipi-write?id=4642674437521408",
+                        "newReadPageUrl": "/read/दस्तक़-दस्तक़-vlywx969e7bj-z812r2k356p1e51",
+                        "coverImageUrl": "https://3.ptlp.co/pratilipi/cover?pratilipiId=4642674437521408&version=360178ab-4444-4e8c-9a2a-be839d6bee2a",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1507887147000,
+                        "lastUpdatedDateMillis": 1507887147000,
+                        "pageCount": 0,
+                        "readingTime": 106,
+                        "readCount": 4707,
+                        "fbLikeShareCount": 0,
+                        "tags": [
+                            {
+                                "id": 5393684831928320,
+                                "name": "लघुकथा",
+                                "nameEn": "shortstories",
+                                "pageUrl": "/categories/shortstories"
+                            },
+                            {
+                                "id": 6739392575048838,
+                                "name": "संस्मरण",
+                                "nameEn": "experiences-and-memories",
+                                "pageUrl": "/categories/experiences-and-memories"
+                            },
+                            {
+                                "id": 6739392575048840,
+                                "name": "प्रेरक",
+                                "nameEn": "moral-inspiring",
+                                "pageUrl": "/categories/moral-inspiring"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 6393987488284672,
+                            "name": "वर्षा ठाकुर",
+                            "displayName": "वर्षा ठाकुर",
+                            "fullName": "वर्षा ठाकुर",
+                            "fullNameEn": "Varsha Thakur",
+                            "pageUrl": "/user/वर्षा-ठाकुर-iayzquieho",
+                            "slug": "/user/वर्षा-ठाकुर-iayzquieho",
+                            "slugEn": "/user/varsha-thakur-iayzquieho",
+                            "profileImageUrl": "https://2.ptlp.co/author/image?authorId=6393987488284672&version=",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 16,
+                        "ratingCount": 39,
+                        "averageRating": 4.333333333333333,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4650444482150400,
+                        "title": "चाय की टपरी-2",
+                        "titleEn": "the tea stall2",
+                        "displayTitle": "चाय की टपरी-2",
+                        "language": "HINDI",
+                        "authorId": 5447071006457856,
+                        "pageUrl": "/story/चाय-की-टपरी-2-9ubqtg2i3ac9",
+                        "slug": "/story/चाय-की-टपरी-2-9ubqtg2i3ac9",
+                        "slugEn": "/story/the-tea-stall2-9ubqtg2i3ac9",
+                        "readPageUrl": "/read?id=4650444482150400",
+                        "writePageUrl": "/pratilipi-write?id=4650444482150400",
+                        "newReadPageUrl": "/read/चाय-की-टपरी-2-चाय-की-टपरी-2-9ubqtg2i3ac9-p959ph52h8p1115",
+                        "coverImageUrl": "https://0.ptlp.co/pratilipi/cover?pratilipiId=4650444482150400&version=ee83f796-d012-4dbf-820b-b876b054a66f",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1510394676000,
+                        "lastUpdatedDateMillis": 1510394676000,
+                        "pageCount": 0,
+                        "readingTime": 1050,
+                        "readCount": 811,
+                        "fbLikeShareCount": 0,
+                        "tags": [
+                            {
+                                "id": 5393684831928320,
+                                "name": "लघुकथा",
+                                "nameEn": "shortstories",
+                                "pageUrl": "/categories/shortstories"
+                            },
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            },
+                            {
+                                "id": 6739392575048840,
+                                "name": "प्रेरक",
+                                "nameEn": "moral-inspiring",
+                                "pageUrl": "/categories/moral-inspiring"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5447071006457856,
+                            "name": "Saurabh Srivastava",
+                            "displayName": "Saurabh Srivastava",
+                            "fullName": "Saurabh Srivastava",
+                            "fullNameEn": "",
+                            "pageUrl": "/user/saurabh-srivastava-u4k3ewvez1",
+                            "slug": "/user/saurabh-srivastava-u4k3ewvez1",
+                            "slugEn": "/user/u4k3ewvez1",
+                            "profileImageUrl": "https://1.ptlp.co/author/image?authorId=5447071006457856&version=8483b9e2-90d7-4b4f-b4cb-71e02c9109b6",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 11,
+                        "ratingCount": 33,
+                        "averageRating": 4.424242424242424,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4661932127158272,
+                        "title": "आजाद परिंदा",
+                        "titleEn": "aajad prinda",
+                        "displayTitle": "आजाद परिंदा",
+                        "language": "HINDI",
+                        "authorId": 5485406278647808,
+                        "pageUrl": "/story/आजाद-परिंदा-cxgixtkryv62",
+                        "slug": "/story/आजाद-परिंदा-cxgixtkryv62",
+                        "slugEn": "/story/aajad-prinda-cxgixtkryv62",
+                        "readPageUrl": "/read?id=4661932127158272",
+                        "writePageUrl": "/pratilipi-write?id=4661932127158272",
+                        "newReadPageUrl": "/read/आजाद-परिंदा-आजाद-परिंदे-cxgixtkryv62-01a2d2335541ifn",
+                        "coverImageUrl": "https://2.ptlp.co/pratilipi/cover?pratilipiId=4661932127158272&version=621e9737-847b-4c56-a9a0-a8fc646b8c10",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1514988473000,
+                        "lastUpdatedDateMillis": 1514988473000,
+                        "pageCount": 0,
+                        "readingTime": 1201,
+                        "readCount": 778,
+                        "fbLikeShareCount": 0,
+                        "tags": [
+                            {
+                                "id": 5956116436484096,
+                                "name": "सामाजिक",
+                                "nameEn": "social",
+                                "pageUrl": "/categories/social"
+                            },
+                            {
+                                "id": 6739392575048840,
+                                "name": "प्रेरक",
+                                "nameEn": "moral-inspiring",
+                                "pageUrl": "/categories/moral-inspiring"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5485406278647808,
+                            "name": "नेहा भारद्वाज",
+                            "displayName": "नेहा भारद्वाज",
+                            "fullName": "नेहा भारद्वाज",
+                            "fullNameEn": "Neha Bhardwaj",
+                            "pageUrl": "/user/नेहा-भारद्वाज-70i3vg6kkg",
+                            "slug": "/user/नेहा-भारद्वाज-70i3vg6kkg",
+                            "slugEn": "/user/neha-bhardwaj-70i3vg6kkg",
+                            "profileImageUrl": "https://3.ptlp.co/author/image?authorId=5485406278647808&version=1497355378961",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 2,
+                        "ratingCount": 8,
+                        "averageRating": 4.75,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4679084548816896,
+                        "title": "उन्नति",
+                        "titleEn": "unnati",
+                        "displayTitle": "उन्नति",
+                        "language": "HINDI",
+                        "authorId": 5204446878367744,
+                        "pageUrl": "/story/उन्नति-hr2aecnl9kum",
+                        "slug": "/story/उन्नति-hr2aecnl9kum",
+                        "slugEn": "/story/unnati-hr2aecnl9kum",
+                        "readPageUrl": "/read?id=4679084548816896",
+                        "writePageUrl": "/pratilipi-write?id=4679084548816896",
+                        "newReadPageUrl": "/read/उन्नति-उन्नति-hr2aecnl9kum-81v113572b53n19",
+                        "coverImageUrl": "https://1.ptlp.co/pratilipi/cover?pratilipiId=4679084548816896&version=bdb6d599-e498-429a-9cde-ef6706adb8ab",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1509621613000,
+                        "lastUpdatedDateMillis": 1509621613000,
+                        "pageCount": 0,
+                        "readingTime": 290,
+                        "readCount": 3900,
+                        "fbLikeShareCount": 0,
+                        "tags": [
+                            {
+                                "id": 6739392575048840,
+                                "name": "प्रेरक",
+                                "nameEn": "moral-inspiring",
+                                "pageUrl": "/categories/moral-inspiring"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5204446878367744,
+                            "name": "रामेन्द्र बिलगैयाँ \"रामेन्द्र\"",
+                            "displayName": "रामेन्द्र बिलगैयाँ \"रामेन्द्र\"",
+                            "fullName": "रामेन्द्र बिलगैयाँ \"रामेन्द्र\"",
+                            "fullNameEn": "ramendra Billgaiyan \"Ramendra\"",
+                            "pageUrl": "/user/रामेन्द्र-बिलगैयाँ-n2k5eb0ii5",
+                            "slug": "/user/रामेन्द्र-बिलगैयाँ-n2k5eb0ii5",
+                            "slugEn": "/user/ramendra-billgaiyan-n2k5eb0ii5",
+                            "profileImageUrl": "https://4.ptlp.co/author/image?authorId=5204446878367744&version=1498048490468",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 9,
+                        "ratingCount": 34,
+                        "averageRating": 4.5588235294117645,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4704269003915264,
+                        "title": "बडो बहु",
+                        "titleEn": "",
+                        "displayTitle": "बडो बहु",
+                        "language": "HINDI",
+                        "authorId": 6221599681282048,
+                        "pageUrl": "/story/बडो-बहु-2nioq7dhy0ug",
+                        "slug": "/story/बडो-बहु-2nioq7dhy0ug",
+                        "slugEn": "/story/2nioq7dhy0ug",
+                        "readPageUrl": "/read?id=4704269003915264",
+                        "writePageUrl": "/pratilipi-write?id=4704269003915264",
+                        "newReadPageUrl": "/read/बडो-बहु-2nioq7dhy0ug-9a332251411q59s",
+                        "coverImageUrl": "https://4.ptlp.co/pratilipi/cover?pratilipiId=4704269003915264&version=da0f0cff-70d3-4430-a7a7-a4756cbaa484",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1510841263000,
+                        "lastUpdatedDateMillis": 1510841263000,
+                        "pageCount": 0,
+                        "readingTime": 332,
+                        "readCount": 5663,
+                        "fbLikeShareCount": 0,
+                        "tags": [
+                            {
+                                "id": 5393684831928320,
+                                "name": "लघुकथा",
+                                "nameEn": "shortstories",
+                                "pageUrl": "/categories/shortstories"
+                            },
+                            {
+                                "id": 5956116436484096,
+                                "name": "सामाजिक",
+                                "nameEn": "social",
+                                "pageUrl": "/categories/social"
+                            },
+                            {
+                                "id": 6739392575048840,
+                                "name": "प्रेरक",
+                                "nameEn": "moral-inspiring",
+                                "pageUrl": "/categories/moral-inspiring"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 6221599681282048,
+                            "name": "Ruchika Sahi",
+                            "displayName": "Ruchika Sahi",
+                            "fullName": "Ruchika Sahi",
+                            "fullNameEn": "",
+                            "pageUrl": "/user/ruchika-sahi-nv84yftc8v",
+                            "slug": "/user/ruchika-sahi-nv84yftc8v",
+                            "slugEn": "/user/nv84yftc8v",
+                            "profileImageUrl": "https://3.ptlp.co/author/image?authorId=6221599681282048&version=6dcb120c-53f8-480a-9096-20565e89a699",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 9,
+                        "ratingCount": 38,
+                        "averageRating": 4.394736842105263,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    }
+                ]
+            },
+            "style": "VERTICAL_SQUARE"
+        },
+        {
+            "type": "PRATILIPI_LIST",
+            "data": {
+                "displayTitle": "सस्पेंस और थ्रिलर",
+                "pageUrl": "/collection/suspense-aur-thriller?filter=trending",
+                "list": [
+                    {
+                        "pratilipiId": 4508732644917248,
+                        "title": "हत्या एक लेखक की",
+                        "titleEn": "hatya ek lekhak ki",
+                        "displayTitle": "हत्या एक लेखक की",
+                        "language": "HINDI",
+                        "authorId": 6187647155306496,
+                        "pageUrl": "/story/हत्या-एक-लेखक-की-oon6jjgrl3ap",
+                        "slug": "/story/हत्या-एक-लेखक-की-oon6jjgrl3ap",
+                        "slugEn": "/story/hatya-ek-lekhak-ki-oon6jjgrl3ap",
+                        "readPageUrl": "/read?id=4508732644917248",
+                        "writePageUrl": "/pratilipi-write?id=4508732644917248",
+                        "newReadPageUrl": "/read/हत्या-एक-लेखक-की-oon6jjgrl3ap-6510q672gy15427",
+                        "coverImageUrl": "https://3.ptlp.co/pratilipi/cover?pratilipiId=4508732644917248&version=1490426906609",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1490426913000,
+                        "lastUpdatedDateMillis": 1541770703000,
+                        "pageCount": 0,
+                        "readingTime": 1046,
+                        "readCount": 4961,
+                        "fbLikeShareCount": 368,
+                        "tags": [
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 6187647155306496,
+                            "name": "आकाश इफेक्ट",
+                            "displayName": "आकाश इफेक्ट",
+                            "fullName": "आकाश इफेक्ट",
+                            "fullNameEn": "Aakash's Effect",
+                            "pageUrl": "/user/आकाश-इफेक्ट-ygubi6lxsv",
+                            "slug": "/user/आकाश-इफेक्ट-ygubi6lxsv",
+                            "slugEn": "/user/aakash-s-effect-ygubi6lxsv",
+                            "profileImageUrl": "https://1.ptlp.co/author/image?authorId=6187647155306496&version=61edd82e-a162-4d62-8a58-bf8083c214fa",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 32,
+                        "ratingCount": 88,
+                        "averageRating": 4.25,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4628458832396288,
+                        "title": "आखिर क्या चाहती हो ?",
+                        "titleEn": "akhir kya chahti ho?",
+                        "displayTitle": "आखिर क्या चाहती हो ?",
+                        "language": "HINDI",
+                        "authorId": 5113251712991232,
+                        "pageUrl": "/story/आखिर-क्या-चाहती-हो-mdg4x9iqkwtp",
+                        "slug": "/story/आखिर-क्या-चाहती-हो-mdg4x9iqkwtp",
+                        "slugEn": "/story/akhir-kya-chahti-ho-mdg4x9iqkwtp",
+                        "readPageUrl": "/read?id=4628458832396288",
+                        "writePageUrl": "/pratilipi-write?id=4628458832396288",
+                        "newReadPageUrl": "/read/आखिर-क्या-चाहती-हो-आखिर-क्या-चाहती-हो-mdg4x9iqkwtp-2915539t6v310u5",
+                        "coverImageUrl": "https://3.ptlp.co/pratilipi/cover?pratilipiId=4628458832396288&version=1472121879874",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1472121879000,
+                        "lastUpdatedDateMillis": 1541770703000,
+                        "pageCount": 1,
+                        "readingTime": 276,
+                        "readCount": 22098,
+                        "fbLikeShareCount": 499,
+                        "tags": [
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5113251712991232,
+                            "name": "अग्यात",
+                            "displayName": "अग्यात",
+                            "fullName": "अग्यात",
+                            "fullNameEn": "Agyat",
+                            "pageUrl": "/user/अग्यात-rxicr2vwdh",
+                            "slug": "/user/अग्यात-rxicr2vwdh",
+                            "slugEn": "/user/agyat-rxicr2vwdh",
+                            "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5113251712991232&version=1474273250693",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 67,
+                        "ratingCount": 208,
+                        "averageRating": 3.605769230769231,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4645687514890240,
+                        "title": "वो चेहरा",
+                        "titleEn": "wo chehra",
+                        "displayTitle": "वो चेहरा",
+                        "language": "HINDI",
+                        "authorId": 5651013836996608,
+                        "pageUrl": "/story/वो-चेहरा-aeajhlswlfd4",
+                        "slug": "/story/वो-चेहरा-aeajhlswlfd4",
+                        "slugEn": "/story/wo-chehra-aeajhlswlfd4",
+                        "readPageUrl": "/read?id=4645687514890240",
+                        "writePageUrl": "/pratilipi-write?id=4645687514890240",
+                        "newReadPageUrl": "/read/वो-चेहरा-वो-चेहरा-aeajhlswlfd4-225951r91y8552o",
+                        "coverImageUrl": "https://0.ptlp.co/pratilipi/cover?pratilipiId=4645687514890240&version=1467883819786",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1467883819000,
+                        "lastUpdatedDateMillis": 1541770703000,
+                        "pageCount": 1,
+                        "readingTime": 523,
+                        "readCount": 13892,
+                        "fbLikeShareCount": 960,
+                        "tags": [
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5651013836996608,
+                            "name": "ज्योत्सना सिंह",
+                            "displayName": "ज्योत्सना सिंह",
+                            "fullName": "ज्योत्सना सिंह",
+                            "fullNameEn": "jyotsana singh",
+                            "pageUrl": "/user/ज्योत्सना-सिंह-5nvhetd2e7",
+                            "slug": "/user/ज्योत्सना-सिंह-5nvhetd2e7",
+                            "slugEn": "/user/jyotsana-singh-5nvhetd2e7",
+                            "profileImageUrl": "https://3.ptlp.co/author/image?authorId=5651013836996608&version=",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 82,
+                        "ratingCount": 209,
+                        "averageRating": 4.086124401913875,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4651638661840896,
+                        "title": "वो चेहरा",
+                        "titleEn": "wo chehra",
+                        "displayTitle": "वो चेहरा",
+                        "language": "HINDI",
+                        "authorId": 6046781118873600,
+                        "pageUrl": "/story/वो-चेहरा-g8wsglmjtjnx",
+                        "slug": "/story/वो-चेहरा-g8wsglmjtjnx",
+                        "slugEn": "/story/wo-chehra-g8wsglmjtjnx",
+                        "readPageUrl": "/read?id=4651638661840896",
+                        "writePageUrl": "/pratilipi-write?id=4651638661840896",
+                        "newReadPageUrl": "/read/वो-चेहरा-वो-चेहरा-g8wsglmjtjnx-9pr5522101ro582",
+                        "coverImageUrl": "https://1.ptlp.co/pratilipi/cover?pratilipiId=4651638661840896&version=1468055286311",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1468055296000,
+                        "lastUpdatedDateMillis": 1541770703000,
+                        "pageCount": 1,
+                        "readingTime": 523,
+                        "readCount": 9419,
+                        "fbLikeShareCount": 1669,
+                        "tags": [
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 6046781118873600,
+                            "name": "ज्योत्सना कपिल \"सना\"",
+                            "displayName": "ज्योत्सना कपिल \"सना\"",
+                            "fullName": "ज्योत्सना कपिल \"सना\"",
+                            "fullNameEn": "Jyotsana Kapil \"Sana\"",
+                            "pageUrl": "/user/ज्योत्सना-कपिल-w6n8cyj7jz",
+                            "slug": "/user/ज्योत्सना-कपिल-w6n8cyj7jz",
+                            "slugEn": "/user/jyotsana-kapil-w6n8cyj7jz",
+                            "profileImageUrl": "https://0.ptlp.co/author/image?authorId=6046781118873600&version=a805b0f4-0d14-4f5b-b853-6d83b833d98c",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 19,
+                        "ratingCount": 55,
+                        "averageRating": 3.945454545454545,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4662981656838144,
+                        "title": "बिंदिया",
+                        "titleEn": "Bindiya",
+                        "displayTitle": "बिंदिया",
+                        "language": "HINDI",
+                        "authorId": 5927713579728896,
+                        "pageUrl": "/story/बिंदिया-8woonax6z36z",
+                        "slug": "/story/बिंदिया-8woonax6z36z",
+                        "slugEn": "/story/bindiya-8woonax6z36z",
+                        "readPageUrl": "/read?id=4662981656838144",
+                        "writePageUrl": "/pratilipi-write?id=4662981656838144",
+                        "newReadPageUrl": "/read/बिंदिया-बिंदिया-8woonax6z36z-545o19oz053582f",
+                        "coverImageUrl": "https://4.ptlp.co/pratilipi/cover?pratilipiId=4662981656838144&version=1447044804673",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1449857607000,
+                        "lastUpdatedDateMillis": 1541770704000,
+                        "pageCount": 1,
+                        "readingTime": 625,
+                        "readCount": 19440,
+                        "fbLikeShareCount": 424,
+                        "tags": [
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5927713579728896,
+                            "name": "पूजा व्रत गुप्ता \"Pooja\"",
+                            "displayName": "पूजा व्रत गुप्ता \"Pooja\"",
+                            "fullName": "पूजा व्रत गुप्ता \"Pooja\"",
+                            "fullNameEn": "Pooja Vrat Gupta Gupta",
+                            "pageUrl": "/user/पूजा-व्रत-गुप्ता-l2fdsdd89q",
+                            "slug": "/user/पूजा-व्रत-गुप्ता-l2fdsdd89q",
+                            "slugEn": "/user/pooja-vrat-gupta-gupta-l2fdsdd89q",
+                            "profileImageUrl": "https://1.ptlp.co/author/image?authorId=5927713579728896&version=1484899367228",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 107,
+                        "ratingCount": 350,
+                        "averageRating": 4.522857142857143,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4687277293830144,
+                        "title": "कहर की रात",
+                        "titleEn": "kahar ki raat",
+                        "displayTitle": "कहर की रात",
+                        "language": "HINDI",
+                        "authorId": 4813006287405056,
+                        "pageUrl": "/story/कहर-की-रात-iixdxjp4rqce",
+                        "slug": "/story/कहर-की-रात-iixdxjp4rqce",
+                        "slugEn": "/story/kahar-ki-raat-iixdxjp4rqce",
+                        "readPageUrl": "/read?id=4687277293830144",
+                        "writePageUrl": "/pratilipi-write?id=4687277293830144",
+                        "newReadPageUrl": "/read/कहर-की-रात-कहर-की-रात-iixdxjp4rqce-5a32gh36551214a",
+                        "coverImageUrl": "https://4.ptlp.co/pratilipi/cover?pratilipiId=4687277293830144&version=1467972737703",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1467972747000,
+                        "lastUpdatedDateMillis": 1541770704000,
+                        "pageCount": 1,
+                        "readingTime": 1183,
+                        "readCount": 12842,
+                        "fbLikeShareCount": 1434,
+                        "tags": [
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 4813006287405056,
+                            "name": "सुधा भार्गव",
+                            "displayName": "सुधा भार्गव",
+                            "fullName": "सुधा भार्गव",
+                            "fullNameEn": "Sudha Bhargav",
+                            "pageUrl": "/user/सुधा-भार्गव-nfj3owq690",
+                            "slug": "/user/सुधा-भार्गव-nfj3owq690",
+                            "slugEn": "/user/sudha-bhargav-nfj3owq690",
+                            "profileImageUrl": "https://1.ptlp.co/author/image?authorId=4813006287405056&version=",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 68,
+                        "ratingCount": 198,
+                        "averageRating": 4.308080808080808,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    }
+                ]
+            },
+            "style": "VERTICAL_SQUARE"
+        },
+        {
+            "type": "PRATILIPI_LIST",
+            "data": {
+                "displayTitle": "हॉरर कहानियाँ",
+                "pageUrl": "/collection/horror?filter=trending",
+                "list": [
+                    {
+                        "pratilipiId": 4541857404026880,
+                        "title": "वो काली रात और दो मुँहीं डायन!",
+                        "titleEn": "Wo Kaali Raat Aur Do Munhi Daayan",
+                        "displayTitle": "वो काली रात और दो मुँहीं डायन!",
+                        "language": "HINDI",
+                        "authorId": 5461131267145728,
+                        "pageUrl": "/story/वो-काली-रात-और-दो-मुँहीं-डायन-mesbgzz7lgme",
+                        "slug": "/story/वो-काली-रात-और-दो-मुँहीं-डायन-mesbgzz7lgme",
+                        "slugEn": "/story/wo-kaali-raat-aur-do-munhi-daayan-mesbgzz7lgme",
+                        "readPageUrl": "/read?id=4541857404026880",
+                        "writePageUrl": "/pratilipi-write?id=4541857404026880",
+                        "newReadPageUrl": "/read/वो-काली-रात-और-दो-मुँहीं-डायन-mesbgzz7lgme-255t25m3462rf11",
+                        "coverImageUrl": "https://0.ptlp.co/pratilipi/cover?pratilipiId=4541857404026880&version=1483864101882",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1483979958000,
+                        "lastUpdatedDateMillis": 1541768224000,
+                        "pageCount": 0,
+                        "readingTime": 566,
+                        "readCount": 14191,
+                        "fbLikeShareCount": 887,
+                        "tags": [
+                            {
+                                "id": 4538295924031488,
+                                "name": "हॉरर",
+                                "nameEn": "horror",
+                                "pageUrl": "/categories/horror"
+                            },
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5461131267145728,
+                            "name": "प्रभाकर पांडेय \"गोपालपुरिया\"",
+                            "displayName": "प्रभाकर पांडेय \"गोपालपुरिया\"",
+                            "fullName": "प्रभाकर पांडेय \"गोपालपुरिया\"",
+                            "fullNameEn": "\"Gopalpuriya\"",
+                            "pageUrl": "/user/प्रभाकर-पांडेय-r9b0morh85",
+                            "slug": "/user/प्रभाकर-पांडेय-r9b0morh85",
+                            "slugEn": "/user/r9b0morh85",
+                            "profileImageUrl": "https://3.ptlp.co/author/image?authorId=5461131267145728&version=1467103512000",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 56,
+                        "ratingCount": 152,
+                        "averageRating": 3.513157894736842,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4686133628764160,
+                        "title": "१३ अति रोचक लोककथाएँ",
+                        "titleEn": "13 ati rochak lok kathayen",
+                        "displayTitle": "१३ अति रोचक लोककथाएँ",
+                        "language": "HINDI",
+                        "authorId": 5461131267145728,
+                        "pageUrl": "/story/१३-अति-रोचक-लोककथाएँ-35ey2emi7zyc",
+                        "slug": "/story/१३-अति-रोचक-लोककथाएँ-35ey2emi7zyc",
+                        "slugEn": "/story/13-ati-rochak-lok-kathayen-35ey2emi7zyc",
+                        "readPageUrl": "/read?id=4686133628764160",
+                        "writePageUrl": "/pratilipi-write?id=4686133628764160",
+                        "newReadPageUrl": "/read/१३-अति-रोचक-लोककथाएँ-1-\tदेनेवाला-जब-भी-देता-देता-छप्पर-फाड़-के-35ey2emi7zyc-0y9x532614880v8",
+                        "coverImageUrl": "https://0.ptlp.co/pratilipi/cover?pratilipiId=4686133628764160&version=34b396c5-617e-4006-a996-2ab6046d04fd",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1502280518000,
+                        "lastUpdatedDateMillis": 1541781490000,
+                        "pageCount": 0,
+                        "readingTime": 1428,
+                        "readCount": 26109,
+                        "fbLikeShareCount": 947,
+                        "tags": [
+                            {
+                                "id": 5956116436484096,
+                                "name": "सामाजिक",
+                                "nameEn": "social",
+                                "pageUrl": "/categories/social"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5461131267145728,
+                            "name": "प्रभाकर पांडेय \"गोपालपुरिया\"",
+                            "displayName": "प्रभाकर पांडेय \"गोपालपुरिया\"",
+                            "fullName": "प्रभाकर पांडेय \"गोपालपुरिया\"",
+                            "fullNameEn": "\"Gopalpuriya\"",
+                            "pageUrl": "/user/प्रभाकर-पांडेय-r9b0morh85",
+                            "slug": "/user/प्रभाकर-पांडेय-r9b0morh85",
+                            "slugEn": "/user/r9b0morh85",
+                            "profileImageUrl": "https://3.ptlp.co/author/image?authorId=5461131267145728&version=1467103512000",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 37,
+                        "ratingCount": 157,
+                        "averageRating": 4.280254777070064,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4741263708389376,
+                        "title": "सत्य या स्वप्न",
+                        "titleEn": "saty ya swapn",
+                        "displayTitle": "सत्य या स्वप्न",
+                        "language": "HINDI",
+                        "authorId": 5420751089827840,
+                        "pageUrl": "/story/सत्य-या-स्वप्न-h280tyjtbx2f",
+                        "slug": "/story/सत्य-या-स्वप्न-h280tyjtbx2f",
+                        "slugEn": "/story/saty-ya-swapn-h280tyjtbx2f",
+                        "readPageUrl": "/read?id=4741263708389376",
+                        "writePageUrl": "/pratilipi-write?id=4741263708389376",
+                        "newReadPageUrl": "/read/सत्य-या-स्वप्न-सत्य-या-स्वप्न-h280tyjtbx2f-143n1o685qg2445",
+                        "coverImageUrl": "https://1.ptlp.co/pratilipi/cover?pratilipiId=4741263708389376&version=1455101716370",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1455101716000,
+                        "lastUpdatedDateMillis": 1541768224000,
+                        "pageCount": 1,
+                        "readingTime": 231,
+                        "readCount": 15310,
+                        "fbLikeShareCount": 267,
+                        "tags": [
+                            {
+                                "id": 4538295924031488,
+                                "name": "हॉरर",
+                                "nameEn": "horror",
+                                "pageUrl": "/categories/horror"
+                            },
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5420751089827840,
+                            "name": "आशा सिंह",
+                            "displayName": "आशा सिंह",
+                            "fullName": "आशा सिंह",
+                            "fullNameEn": "Asha Singh",
+                            "pageUrl": "/user/आशा-सिंह-0gi6shjb4u",
+                            "slug": "/user/आशा-सिंह-0gi6shjb4u",
+                            "slugEn": "/user/asha-singh-0gi6shjb4u",
+                            "profileImageUrl": "https://0.ptlp.co/author/image?authorId=5420751089827840&version=1498498711923",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 17,
+                        "ratingCount": 72,
+                        "averageRating": 3.0416666666666665,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4770533099962368,
+                        "title": "राज",
+                        "titleEn": "raj",
+                        "displayTitle": "राज",
+                        "language": "HINDI",
+                        "authorId": 5155691779063808,
+                        "pageUrl": "/story/राज-ammh8xb2re9b",
+                        "slug": "/story/राज-ammh8xb2re9b",
+                        "slugEn": "/story/raj-ammh8xb2re9b",
+                        "readPageUrl": "/read?id=4770533099962368",
+                        "writePageUrl": "/pratilipi-write?id=4770533099962368",
+                        "newReadPageUrl": "/read/राज-ammh8xb2re9b-54195n1qp9225r5",
+                        "coverImageUrl": "https://3.ptlp.co/pratilipi/cover?pratilipiId=4770533099962368&version=1480409481729",
+                        "oldContent": false,
+                        "type": "POEM",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1480409492000,
+                        "lastUpdatedDateMillis": 1541768225000,
+                        "pageCount": 0,
+                        "readingTime": 18,
+                        "readCount": 8718,
+                        "fbLikeShareCount": 221,
+                        "tags": [
+                            {
+                                "id": 4538295924031488,
+                                "name": "हॉरर",
+                                "nameEn": "horror",
+                                "pageUrl": "/categories/horror"
+                            },
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5155691779063808,
+                            "name": "कुमुद अनुन्जया",
+                            "displayName": "कुमुद अनुन्जया",
+                            "fullName": "कुमुद अनुन्जया",
+                            "fullNameEn": "kumud anunjaya",
+                            "pageUrl": "/user/कुमुद-अनुन्जया-95ikkadwb5",
+                            "slug": "/user/कुमुद-अनुन्जया-95ikkadwb5",
+                            "slugEn": "/user/kumud-anunjaya-95ikkadwb5",
+                            "profileImageUrl": "https://3.ptlp.co/author/image?authorId=5155691779063808&version=",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 13,
+                        "ratingCount": 66,
+                        "averageRating": 2.8484848484848486,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4836442191691776,
+                        "title": "मानें या ना मानें पर ऐसा भी होता है...........",
+                        "titleEn": null,
+                        "displayTitle": "मानें या ना मानें पर ऐसा भी होता है...........",
+                        "language": "HINDI",
+                        "authorId": 5461131267145728,
+                        "pageUrl": "/story/मानें-या-ना-मानें-पर-ऐसा-भी-होता-है-3bdmvittqhql",
+                        "slug": "/story/मानें-या-ना-मानें-पर-ऐसा-भी-होता-है-3bdmvittqhql",
+                        "slugEn": "/story/None-3bdmvittqhql",
+                        "readPageUrl": "/read?id=4836442191691776",
+                        "writePageUrl": "/pratilipi-write?id=4836442191691776",
+                        "newReadPageUrl": "/read/मानें-या-ना-मानें-पर-ऐसा-भी-होता-है-मानें-या-ना-मानें-पर-ऐसा-भी-होता-है-3bdmvittqhql-5f202251mi13q56",
+                        "coverImageUrl": "https://1.ptlp.co/pratilipi/cover?pratilipiId=4836442191691776&version=1479962958554",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1522900308000,
+                        "lastUpdatedDateMillis": 1541768225000,
+                        "pageCount": 0,
+                        "readingTime": 653,
+                        "readCount": 17891,
+                        "fbLikeShareCount": 1300,
+                        "tags": [
+                            {
+                                "id": 4538295924031488,
+                                "name": "हॉरर",
+                                "nameEn": "horror",
+                                "pageUrl": "/categories/horror"
+                            },
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5461131267145728,
+                            "name": "प्रभाकर पांडेय \"गोपालपुरिया\"",
+                            "displayName": "प्रभाकर पांडेय \"गोपालपुरिया\"",
+                            "fullName": "प्रभाकर पांडेय \"गोपालपुरिया\"",
+                            "fullNameEn": "\"Gopalpuriya\"",
+                            "pageUrl": "/user/प्रभाकर-पांडेय-r9b0morh85",
+                            "slug": "/user/प्रभाकर-पांडेय-r9b0morh85",
+                            "slugEn": "/user/r9b0morh85",
+                            "profileImageUrl": "https://3.ptlp.co/author/image?authorId=5461131267145728&version=1467103512000",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 152,
+                        "ratingCount": 422,
+                        "averageRating": 4.374407582938389,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 4875124009336832,
+                        "title": "उस रात की बात",
+                        "titleEn": "us raat ki baat",
+                        "displayTitle": "उस रात की बात",
+                        "language": "HINDI",
+                        "authorId": 5417478565920768,
+                        "pageUrl": "/story/उस-रात-की-बात-uxsy9g69xfud",
+                        "slug": "/story/उस-रात-की-बात-uxsy9g69xfud",
+                        "slugEn": "/story/us-raat-ki-baat-uxsy9g69xfud",
+                        "readPageUrl": "/read?id=4875124009336832",
+                        "writePageUrl": "/pratilipi-write?id=4875124009336832",
+                        "newReadPageUrl": "/read/उस-रात-की-बात-uxsy9g69xfud-50v022185i6m511",
+                        "coverImageUrl": "https://2.ptlp.co/pratilipi/cover?pratilipiId=4875124009336832&version=1480335577660",
+                        "oldContent": false,
+                        "type": "STORY",
+                        "contentType": "PRATILIPI",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1480335587000,
+                        "lastUpdatedDateMillis": 1541768225000,
+                        "pageCount": 0,
+                        "readingTime": 606,
+                        "readCount": 16484,
+                        "fbLikeShareCount": 276,
+                        "tags": [
+                            {
+                                "id": 4538295924031488,
+                                "name": "हॉरर",
+                                "nameEn": "horror",
+                                "pageUrl": "/categories/horror"
+                            },
+                            {
+                                "id": 5509846618079232,
+                                "name": "सस्पेंस / थ्रिलर",
+                                "nameEn": "suspense",
+                                "pageUrl": "/categories/suspense"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5417478565920768,
+                            "name": "सोहन वैष्णव",
+                            "displayName": "सोहन वैष्णव",
+                            "fullName": "सोहन वैष्णव",
+                            "fullNameEn": "Sohan Vaishnav",
+                            "pageUrl": "/user/सोहन-वैष्णव-q7pc836xfb",
+                            "slug": "/user/सोहन-वैष्णव-q7pc836xfb",
+                            "slugEn": "/user/sohan-vaishnav-q7pc836xfb",
+                            "profileImageUrl": "https://3.ptlp.co/author/image?authorId=5417478565920768&version=",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 73,
+                        "ratingCount": 224,
+                        "averageRating": 3.392857142857143,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    }
+                ]
+            },
+            "style": "VERTICAL_SQUARE"
+        },
+        {
+            "type": "PRATILIPI_AUDIO_LIST",
+            "data": {
+                "displayTitle": "ऑडियो रचनाएँ",
+                "pageUrl": "/audio-list",
+                "list": [
+                    {
+                        "pratilipiId": 6755373518982987,
+                        "title": "प्रेमकथा",
+                        "titleEn": "प्रेमकथा",
+                        "displayTitle": "प्रेमकथा",
+                        "language": "HINDI",
+                        "authorId": 5758392207409152,
+                        "pageUrl": "/audio/प्रेमकथा-erH8GJd4C1gO",
+                        "slug": "/audio/प्रेमकथा-erH8GJd4C1gO",
+                        "slugEn": "/audio/प्रेमकथा-erH8GJd4C1gO",
+                        "readPageUrl": "/read?id=6755373518982987",
+                        "writePageUrl": "/pratilipi-write?id=6755373518982987",
+                        "coverImageUrl": "https://2.ptlp.co/pratilipi/cover?pratilipiId=6755373518982987&version=805ea5ed-4322-489d-adc7-6a2610a88f82",
+                        "oldContent": false,
+                        "type": "कहानी",
+                        "contentType": "AUDIO",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1536142870000,
+                        "lastUpdatedDateMillis": 1541164402000,
+                        "pageCount": 0,
+                        "readingTime": 118,
+                        "readCount": 0,
+                        "fbLikeShareCount": 0,
+                        "summary": "रचयिता -     ,रचना पठन - निजा \nवक़्त ने न जाने कितनी लकीरे खींच दी...",
+                        "audioData": {
+                            "bitrate": {
+                                "32kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/erH8GJd4C1gO/32.mp3"
+                                },
+                                "64kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/erH8GJd4C1gO/64.mp3"
+                                },
+                                "128kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/erH8GJd4C1gO/128.mp3"
+                                }
+                            },
+                            "playTime": 118,
+                            "narrator": {
+                                "authorId": 5758392207409152,
+                                "name": "निजा",
+                                "displayName": "निजा",
+                                "fullName": "निजा",
+                                "fullNameEn": "Nija",
+                                "pageUrl": "/user/निजा-4z51kd94rg",
+                                "slug": "/user/निजा-4z51kd94rg",
+                                "slugEn": "/user/nija-4z51kd94rg",
+                                "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                                "language": "HINDI"
+                            }
+                        },
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5758392207409152,
+                            "name": "निजा",
+                            "displayName": "निजा",
+                            "fullName": "निजा",
+                            "fullNameEn": "Nija",
+                            "pageUrl": "/user/निजा-4z51kd94rg",
+                            "slug": "/user/निजा-4z51kd94rg",
+                            "slugEn": "/user/nija-4z51kd94rg",
+                            "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 7,
+                        "ratingCount": 12,
+                        "averageRating": 4.75,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 6755373518982988,
+                        "title": "एक चान्स",
+                        "titleEn": "एक चान्स",
+                        "displayTitle": "एक चान्स",
+                        "language": "HINDI",
+                        "authorId": 5758392207409152,
+                        "pageUrl": "/audio/एक-चान्स-JA9yYPKqUTD0",
+                        "slug": "/audio/एक-चान्स-JA9yYPKqUTD0",
+                        "slugEn": "/audio/एक-चान्स-JA9yYPKqUTD0",
+                        "readPageUrl": "/read?id=6755373518982988",
+                        "writePageUrl": "/pratilipi-write?id=6755373518982988",
+                        "coverImageUrl": "https://3.ptlp.co/pratilipi/cover?pratilipiId=6755373518982988&version=ad92a47d-57c9-4feb-b379-e37a73a1595e",
+                        "oldContent": false,
+                        "type": "कहानी",
+                        "contentType": "AUDIO",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1536142882000,
+                        "lastUpdatedDateMillis": 1541164402000,
+                        "pageCount": 0,
+                        "readingTime": 313,
+                        "readCount": 0,
+                        "fbLikeShareCount": 0,
+                        "summary": "रचयिता - निजा , रचना पठन - निजा \nसिर्फ एक चान्स चाहिए और फिर...",
+                        "audioData": {
+                            "bitrate": {
+                                "32kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/JA9yYPKqUTD0/32.mp3"
+                                },
+                                "64kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/JA9yYPKqUTD0/64.mp3"
+                                },
+                                "128kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/JA9yYPKqUTD0/128.mp3"
+                                }
+                            },
+                            "playTime": 313,
+                            "narrator": {
+                                "authorId": 5758392207409152,
+                                "name": "निजा",
+                                "displayName": "निजा",
+                                "fullName": "निजा",
+                                "fullNameEn": "Nija",
+                                "pageUrl": "/user/निजा-4z51kd94rg",
+                                "slug": "/user/निजा-4z51kd94rg",
+                                "slugEn": "/user/nija-4z51kd94rg",
+                                "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                                "language": "HINDI"
+                            }
+                        },
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5758392207409152,
+                            "name": "निजा",
+                            "displayName": "निजा",
+                            "fullName": "निजा",
+                            "fullNameEn": "Nija",
+                            "pageUrl": "/user/निजा-4z51kd94rg",
+                            "slug": "/user/निजा-4z51kd94rg",
+                            "slugEn": "/user/nija-4z51kd94rg",
+                            "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 3,
+                        "ratingCount": 4,
+                        "averageRating": 5,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 6755373518982989,
+                        "title": "सच्चा प्यार या समझौता",
+                        "titleEn": "सच्चा प्यार या समझौता",
+                        "displayTitle": "सच्चा प्यार या समझौता",
+                        "language": "HINDI",
+                        "authorId": 5758392207409152,
+                        "pageUrl": "/audio/सच्चा-प्यार-या-समझौता-USG5pLIOZom0",
+                        "slug": "/audio/सच्चा-प्यार-या-समझौता-USG5pLIOZom0",
+                        "slugEn": "/audio/सच्चा-प्यार-या-समझौता-USG5pLIOZom0",
+                        "readPageUrl": "/read?id=6755373518982989",
+                        "writePageUrl": "/pratilipi-write?id=6755373518982989",
+                        "coverImageUrl": "https://4.ptlp.co/pratilipi/cover?pratilipiId=6755373518982989&version=14b7e7e7-7b5f-4886-b742-88d6567f1d41",
+                        "oldContent": false,
+                        "type": "कहानी",
+                        "contentType": "AUDIO",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1536142913000,
+                        "lastUpdatedDateMillis": 1541164401000,
+                        "pageCount": 0,
+                        "readingTime": 771,
+                        "readCount": 0,
+                        "fbLikeShareCount": 0,
+                        "summary": "रचयिता - निजा , रचना पठन - निजा \nबेसब्री से किया हुआ इंतज़ार लेकिन ...",
+                        "audioData": {
+                            "bitrate": {
+                                "32kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/USG5pLIOZom0/32.mp3"
+                                },
+                                "64kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/USG5pLIOZom0/64.mp3"
+                                },
+                                "128kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/USG5pLIOZom0/128.mp3"
+                                }
+                            },
+                            "playTime": 771,
+                            "narrator": {
+                                "authorId": 5758392207409152,
+                                "name": "निजा",
+                                "displayName": "निजा",
+                                "fullName": "निजा",
+                                "fullNameEn": "Nija",
+                                "pageUrl": "/user/निजा-4z51kd94rg",
+                                "slug": "/user/निजा-4z51kd94rg",
+                                "slugEn": "/user/nija-4z51kd94rg",
+                                "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                                "language": "HINDI"
+                            }
+                        },
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5758392207409152,
+                            "name": "निजा",
+                            "displayName": "निजा",
+                            "fullName": "निजा",
+                            "fullNameEn": "Nija",
+                            "pageUrl": "/user/निजा-4z51kd94rg",
+                            "slug": "/user/निजा-4z51kd94rg",
+                            "slugEn": "/user/nija-4z51kd94rg",
+                            "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 5,
+                        "ratingCount": 8,
+                        "averageRating": 4.75,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 6755373518982990,
+                        "title": "वो रातें",
+                        "titleEn": "वो रातें",
+                        "displayTitle": "वो रातें",
+                        "language": "HINDI",
+                        "authorId": 5687577306726400,
+                        "pageUrl": "/audio/वो-रातें-HBaG21i1s5V2",
+                        "slug": "/audio/वो-रातें-HBaG21i1s5V2",
+                        "slugEn": "/audio/वो-रातें-HBaG21i1s5V2",
+                        "readPageUrl": "/read?id=6755373518982990",
+                        "writePageUrl": "/pratilipi-write?id=6755373518982990",
+                        "coverImageUrl": "https://0.ptlp.co/pratilipi/cover?pratilipiId=6755373518982990&version=ce702844-325c-4a88-95d2-8d5e00674ec7",
+                        "oldContent": false,
+                        "type": "कहानी",
+                        "contentType": "AUDIO",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1536142927000,
+                        "lastUpdatedDateMillis": 1541164401000,
+                        "pageCount": 0,
+                        "readingTime": 311,
+                        "readCount": 2,
+                        "fbLikeShareCount": 0,
+                        "summary": "रचयिता - क्रिया मंजू , रचना पठन - निजा \nकुछ स्पर्श और कुछ सफर की बातें",
+                        "audioData": {
+                            "bitrate": {
+                                "32kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/HBaG21i1s5V2/32.mp3"
+                                },
+                                "64kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/HBaG21i1s5V2/64.mp3"
+                                },
+                                "128kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/HBaG21i1s5V2/128.mp3"
+                                }
+                            },
+                            "playTime": 311,
+                            "narrator": {
+                                "authorId": 5758392207409152,
+                                "name": "निजा",
+                                "displayName": "निजा",
+                                "fullName": "निजा",
+                                "fullNameEn": "Nija",
+                                "pageUrl": "/user/निजा-4z51kd94rg",
+                                "slug": "/user/निजा-4z51kd94rg",
+                                "slugEn": "/user/nija-4z51kd94rg",
+                                "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                                "language": "HINDI"
+                            }
+                        },
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5687577306726400,
+                            "name": "क्रिया मंजू",
+                            "displayName": "क्रिया मंजू",
+                            "fullName": "क्रिया मंजू",
+                            "fullNameEn": "Kriya Manju",
+                            "pageUrl": "/user/क्रिया-मंजू-gkcm70xdzr",
+                            "slug": "/user/क्रिया-मंजू-gkcm70xdzr",
+                            "slugEn": "/user/kriya-manju-gkcm70xdzr",
+                            "profileImageUrl": "https://0.ptlp.co/author/image?authorId=5687577306726400&version=1428219254000",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 1,
+                        "ratingCount": 3,
+                        "averageRating": 5,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 6755373518982991,
+                        "title": "रिक्शावाले अंकल",
+                        "titleEn": "रिक्शावाले अंकल",
+                        "displayTitle": "रिक्शावाले अंकल",
+                        "language": "HINDI",
+                        "authorId": 5758392207409152,
+                        "pageUrl": "/audio/रिक्शावाले-अंकल-aZfbKi9zTYae",
+                        "slug": "/audio/रिक्शावाले-अंकल-aZfbKi9zTYae",
+                        "slugEn": "/audio/रिक्शावाले-अंकल-aZfbKi9zTYae",
+                        "readPageUrl": "/read?id=6755373518982991",
+                        "writePageUrl": "/pratilipi-write?id=6755373518982991",
+                        "coverImageUrl": "https://1.ptlp.co/pratilipi/cover?pratilipiId=6755373518982991&version=0c556c90-7b5b-4577-8e1e-44392b28fe78",
+                        "oldContent": false,
+                        "type": "कहानी",
+                        "contentType": "AUDIO",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1536142945000,
+                        "lastUpdatedDateMillis": 1541164401000,
+                        "pageCount": 0,
+                        "readingTime": 461,
+                        "readCount": 0,
+                        "fbLikeShareCount": 0,
+                        "summary": "रचयिता -  निजा , रचना पठन - निजा \nछोटी सी बच्ची और रिक्शावाले अंकलकी कहानी",
+                        "audioData": {
+                            "bitrate": {
+                                "32kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/aZfbKi9zTYae/32.mp3"
+                                },
+                                "64kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/aZfbKi9zTYae/64.mp3"
+                                },
+                                "128kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/aZfbKi9zTYae/128.mp3"
+                                }
+                            },
+                            "playTime": 461,
+                            "narrator": {
+                                "authorId": 5758392207409152,
+                                "name": "निजा",
+                                "displayName": "निजा",
+                                "fullName": "निजा",
+                                "fullNameEn": "Nija",
+                                "pageUrl": "/user/निजा-4z51kd94rg",
+                                "slug": "/user/निजा-4z51kd94rg",
+                                "slugEn": "/user/nija-4z51kd94rg",
+                                "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                                "language": "HINDI"
+                            }
+                        },
+                        "tags": [
+                            {
+                                "id": 6739392575048841,
+                                "name": "स्त्री - विमर्श",
+                                "nameEn": "women",
+                                "pageUrl": "/categories/women"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 5758392207409152,
+                            "name": "निजा",
+                            "displayName": "निजा",
+                            "fullName": "निजा",
+                            "fullNameEn": "Nija",
+                            "pageUrl": "/user/निजा-4z51kd94rg",
+                            "slug": "/user/निजा-4z51kd94rg",
+                            "slugEn": "/user/nija-4z51kd94rg",
+                            "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 0,
+                        "ratingCount": 0,
+                        "averageRating": 0,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    },
+                    {
+                        "pratilipiId": 6755373518982994,
+                        "title": "नवम्बर का महीना",
+                        "titleEn": "नवम्बर का महीना",
+                        "displayTitle": "नवम्बर का महीना",
+                        "language": "HINDI",
+                        "authorId": 6180465945870336,
+                        "pageUrl": "/audio/नवम्बर-का-महीना-i4xo42J1P2iG",
+                        "slug": "/audio/नवम्बर-का-महीना-i4xo42J1P2iG",
+                        "slugEn": "/audio/नवम्बर-का-महीना-i4xo42J1P2iG",
+                        "readPageUrl": "/read?id=6755373518982994",
+                        "writePageUrl": "/pratilipi-write?id=6755373518982994",
+                        "coverImageUrl": "https://4.ptlp.co/pratilipi/cover?pratilipiId=6755373518982994&version=7548aeed-45ae-413a-b2b6-f4db6e0cd33b",
+                        "oldContent": false,
+                        "type": "कहानी",
+                        "contentType": "AUDIO",
+                        "state": "PUBLISHED",
+                        "listingDateMillis": 1536142982000,
+                        "lastUpdatedDateMillis": 1541164401000,
+                        "pageCount": 0,
+                        "readingTime": 909,
+                        "readCount": 1,
+                        "fbLikeShareCount": 0,
+                        "summary": "रचयिता -  गौरव गुप्ता , रचना पठन - निजा \nसर्द हवा और कुछ गर्म यादे",
+                        "audioData": {
+                            "bitrate": {
+                                "32kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/i4xo42J1P2iG/32.mp3"
+                                },
+                                "64kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/i4xo42J1P2iG/64.mp3"
+                                },
+                                "128kbps": {
+                                    "url": "https://s3-ap-south-1.amazonaws.com/audio.pratilipi.com/audio/i4xo42J1P2iG/128.mp3"
+                                }
+                            },
+                            "playTime": 909,
+                            "narrator": {
+                                "authorId": 5758392207409152,
+                                "name": "निजा",
+                                "displayName": "निजा",
+                                "fullName": "निजा",
+                                "fullNameEn": "Nija",
+                                "pageUrl": "/user/निजा-4z51kd94rg",
+                                "slug": "/user/निजा-4z51kd94rg",
+                                "slugEn": "/user/nija-4z51kd94rg",
+                                "profileImageUrl": "https://2.ptlp.co/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                                "language": "HINDI"
+                            }
+                        },
+                        "tags": [
+                            {
+                                "id": 6072796571500544,
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "pageUrl": "/categories/romance"
+                            }
+                        ],
+                        "author": {
+                            "authorId": 6180465945870336,
+                            "name": "गौरव गुप्ता",
+                            "displayName": "गौरव गुप्ता",
+                            "fullName": "गौरव गुप्ता",
+                            "fullNameEn": "gaurow gupta",
+                            "pageUrl": "/user/गौरव-गुप्ता-fqts7294ex",
+                            "slug": "/user/गौरव-गुप्ता-fqts7294ex",
+                            "slugEn": "/user/gaurow-gupta-fqts7294ex",
+                            "profileImageUrl": "https://1.ptlp.co/author/image?authorId=6180465945870336&version=1446227502000",
+                            "language": "HINDI"
+                        },
+                        "reviewCount": 3,
+                        "ratingCount": 4,
+                        "averageRating": 4.5,
+                        "addedToLib": false,
+                        "hasAccessToUpdate": false
+                    }
+                ]
+            },
+            "style": "MATERIAL"
+        },
+        {
+            "type": "BANNER_ITEM",
+            "data": {
+                "displayTitle": "",
+                "pageUrl": "",
+                "list": [
+                    {
+                        "bannerId": "https___0_ptlp_co_init_banner_language_HINDI_name_hin_121801_articles_2_jpg",
+                        "title": "लेख - संग्रह",
+                        "imageUrl": "https://0.ptlp.co/init/banner?language=HINDI&name=hin-121801-articles-2.jpg",
+                        "actionUrl": "/articlesdecember",
+                        "apiName": "PratilipiListApi",
+                        "apiRequest": {
+                            "language": "HINDI",
+                            "state": "PUBLISHED",
+                            "listName": "articlesdecember"
+                        }
+                    }
+                ]
+            },
+            "style": "DEFAULT"
+        }
+    ],
+    "showCategorySelect": false,
+    "numberFound": 21,
+    "offset": 10
+}
