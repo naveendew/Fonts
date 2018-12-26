@@ -1,0 +1,248 @@
+{
+	"pratilipiList": [{
+			"pratilipiId": 6334457649823344,
+			"title": "Serial Part 1",
+			"titleEn": "Serial Part 1",
+			"displayTitle": "Serial Part 1",
+			"language": "ENGLISH",
+			"isSeries": "false",
+			"author": {
+				"authorId": 6334457649823744,
+				"name": "राधिका गर्ग",
+				"displayName": "राधिका गर्ग \"radhik\"",
+				"fullName": "राधिका गर्ग \"radhik\"",
+				"fullNameEn": "radhika gargg \"garg\"",
+				"pageUrl": "/user/राधिका-गर्ग-u12zndqv4o",
+				"profileImageUrl": "https://pratilipi.s.llnwi.net/author/image?authorId=6334457649823744&version=70b92ea5-ad85-4c4d-af6a-8fb84ae2d4fc"
+			},
+			"summary": "किसी से प्यार करना हमारे बस में नहीं पर किसी से दूर जाना हमारे बस में होता है ,पर क्या सच में अपने प्यार से दूर हो जाना और अकेले ज़िन्दगी बिताना संभव है ? ये कहानी एक ऐस ही रिश्ते की है .",
+			"pageUrl": "/story/20181204-1-6F4P3IMr2B6Z",
+			"pageUrlEn": "/story/test-english-6F4P3IMr2B6Z",
+			"coverImageUrl": "http://jf38h/3453r",
+			"slug": "6F4P3IMr2B6Z",
+			"state": "PUBLISHED",
+			"listingDateMillis": 1543911294000,
+			"lastUpdatedDateMillis": 1543920668000,
+			"suggestedTags": [
+				"सुग्गेस्टेड"
+			],
+			"tags": [{
+					"id": 5956116436484096,
+					"name": "सामाजिक",
+					"nameEn": "social"
+				},
+				{
+					"id": 6739392575048840,
+					"name": "प्रेरक",
+					"nameEn": "moral-inspiring"
+				}
+			],
+			"totalParts": 0,
+			"readCount": 3000,
+			"readingTime": 200,
+			"averageRating": 4.3,
+			"reviewCount": 22,
+			"ratingCount": 44,
+			"hasAccessToUpdate": true,
+			"addedToLib": true,
+			"series": {
+				"seriesId": 3245235423,
+				"title": "Serial Part 1",
+				"titleEn": "Serial Part 1",
+				"displayTitle": "Serial Part 1",
+				"language": "ENGLISH",
+				"summary": "Serial Part 1",
+				"pageUrl": "/series/20181204-1-6F4P3IMr2B6Z",
+				"pageUrlEn": "/series/test-english-6F4P3IMr2B6Z",
+				"coverImageUrl": "http://jf38h/3453r",
+				"slug": "6F4P3IMr2B6Z"
+			},
+			"isPartOfSeries": true
+		},
+		{
+			"pratilipiId": 6334457649823344,
+			"title": "Serial Part 2",
+			"titleEn": "Serial Part 2",
+			"displayTitle": "Serial Part 2",
+			"language": "ENGLISH",
+			"isSeries": "false",
+			"author": {
+				"authorId": 6334457649823744,
+				"name": "राधिका गर्ग",
+				"displayName": "राधिका गर्ग \"radhik\"",
+				"fullName": "राधिका गर्ग \"radhik\"",
+				"fullNameEn": "radhika gargg \"garg\"",
+				"pageUrl": "/user/राधिका-गर्ग-u12zndqv4o",
+				"profileImageUrl": "https://pratilipi.s.llnwi.net/author/image?authorId=6334457649823744&version=70b92ea5-ad85-4c4d-af6a-8fb84ae2d4fc"
+			},
+			"summary": "किसी से प्यार करना हमारे बस में नहीं पर किसी से दूर जाना हमारे बस में होता है ,पर क्या सच में अपने प्यार से दूर हो जाना और अकेले ज़िन्दगी बिताना संभव है ? ये कहानी एक ऐस ही रिश्ते की है .",
+			"pageUrl": "/story/20181204-1-6F4P3IMr2B6Z",
+			"pageUrlEn": "/story/test-english-6F4P3IMr2B6Z",
+			"coverImageUrl": "http://jf38h/3453r",
+			"slug": "6F4P3IMr2B6Z",
+			"state": "PUBLISHED",
+			"listingDateMillis": 1543911294000,
+			"lastUpdatedDateMillis": 1543920668000,
+			"suggestedTags": [
+				"सुग्गेस्टेड"
+			],
+			"tags": [{
+					"id": 5956116436484096,
+					"name": "सामाजिक",
+					"nameEn": "social"
+				},
+				{
+					"id": 6739392575048840,
+					"name": "प्रेरक",
+					"nameEn": "moral-inspiring"
+				}
+			],
+			"totalParts": 0,
+			"readCount": 3000,
+			"readingTime": 200,
+			"averageRating": 4.3,
+			"reviewCount": 22,
+			"ratingCount": 44,
+			"hasAccessToUpdate": true,
+			"addedToLib": true,
+			"series": {
+				"seriesId": 3245235423,
+				"title": "Serial Part 1",
+				"titleEn": "Serial Part 1",
+				"displayTitle": "Serial Part 1",
+				"language": "ENGLISH",
+				"summary": "Serial Part 1",
+				"pageUrl": "/series/20181204-1-6F4P3IMr2B6Z",
+				"pageUrlEn": "/series/test-english-6F4P3IMr2B6Z",
+				"coverImageUrl": "http://jf38h/3453r",
+				"slug": "6F4P3IMr2B6Z"
+			},
+			"isPartOfSeries": true
+		},
+		{
+			"pratilipiId": 6334457649823344,
+			"title": "Serial Part 3",
+			"titleEn": "Serial Part 3",
+			"displayTitle": "Serial Part 3",
+			"language": "ENGLISH",
+			"isSeries": "false",
+			"author": {
+				"authorId": 6334457649823744,
+				"name": "राधिका गर्ग",
+				"displayName": "राधिका गर्ग \"radhik\"",
+				"fullName": "राधिका गर्ग \"radhik\"",
+				"fullNameEn": "radhika gargg \"garg\"",
+				"pageUrl": "/user/राधिका-गर्ग-u12zndqv4o",
+				"profileImageUrl": "https://pratilipi.s.llnwi.net/author/image?authorId=6334457649823744&version=70b92ea5-ad85-4c4d-af6a-8fb84ae2d4fc"
+			},
+			"summary": "किसी से प्यार करना हमारे बस में नहीं पर किसी से दूर जाना हमारे बस में होता है ,पर क्या सच में अपने प्यार से दूर हो जाना और अकेले ज़िन्दगी बिताना संभव है ? ये कहानी एक ऐस ही रिश्ते की है .",
+			"pageUrl": "/story/20181204-1-6F4P3IMr2B6Z",
+			"pageUrlEn": "/story/test-english-6F4P3IMr2B6Z",
+			"coverImageUrl": "http://jf38h/3453r",
+			"slug": "6F4P3IMr2B6Z",
+			"state": "PUBLISHED",
+			"listingDateMillis": 1543911294000,
+			"lastUpdatedDateMillis": 1543920668000,
+			"suggestedTags": [
+				"सुग्गेस्टेड"
+			],
+			"tags": [{
+					"id": 5956116436484096,
+					"name": "सामाजिक",
+					"nameEn": "social"
+				},
+				{
+					"id": 6739392575048840,
+					"name": "प्रेरक",
+					"nameEn": "moral-inspiring"
+				}
+			],
+			"totalParts": 0,
+			"readCount": 3000,
+			"readingTime": 200,
+			"averageRating": 4.3,
+			"reviewCount": 22,
+			"ratingCount": 44,
+			"hasAccessToUpdate": true,
+			"addedToLib": true,
+			"series": {
+				"seriesId": 3245235423,
+				"title": "Serial Part 1",
+				"titleEn": "Serial Part 1",
+				"displayTitle": "Serial Part 1",
+				"language": "ENGLISH",
+				"summary": "Serial Part 1",
+				"pageUrl": "/series/20181204-1-6F4P3IMr2B6Z",
+				"pageUrlEn": "/series/test-english-6F4P3IMr2B6Z",
+				"coverImageUrl": "http://jf38h/3453r",
+				"slug": "6F4P3IMr2B6Z"
+			},
+			"isPartOfSeries": true
+		},
+		{
+			"pratilipiId": 6334457649823344,
+			"title": "Serial Part 4",
+			"titleEn": "Serial Part 4",
+			"displayTitle": "Serial Part 4",
+			"language": "ENGLISH",
+			"isSeries": "false",
+			"author": {
+				"authorId": 6334457649823744,
+				"name": "राधिका गर्ग",
+				"displayName": "राधिका गर्ग \"radhik\"",
+				"fullName": "राधिका गर्ग \"radhik\"",
+				"fullNameEn": "radhika gargg \"garg\"",
+				"pageUrl": "/user/राधिका-गर्ग-u12zndqv4o",
+				"profileImageUrl": "https://pratilipi.s.llnwi.net/author/image?authorId=6334457649823744&version=70b92ea5-ad85-4c4d-af6a-8fb84ae2d4fc"
+			},
+			"summary": "किसी से प्यार करना हमारे बस में नहीं पर किसी से दूर जाना हमारे बस में होता है ,पर क्या सच में अपने प्यार से दूर हो जाना और अकेले ज़िन्दगी बिताना संभव है ? ये कहानी एक ऐस ही रिश्ते की है .",
+			"pageUrl": "/story/20181204-1-6F4P3IMr2B6Z",
+			"pageUrlEn": "/story/test-english-6F4P3IMr2B6Z",
+			"coverImageUrl": "http://jf38h/3453r",
+			"slug": "6F4P3IMr2B6Z",
+			"state": "PUBLISHED",
+			"listingDateMillis": 1543911294000,
+			"lastUpdatedDateMillis": 1543920668000,
+			"suggestedTags": [
+				"सुग्गेस्टेड"
+			],
+			"tags": [{
+					"id": 5956116436484096,
+					"name": "सामाजिक",
+					"nameEn": "social"
+				},
+				{
+					"id": 6739392575048840,
+					"name": "प्रेरक",
+					"nameEn": "moral-inspiring"
+				}
+			],
+			"totalParts": 0,
+			"readCount": 3000,
+			"readingTime": 200,
+			"averageRating": 4.3,
+			"reviewCount": 22,
+			"ratingCount": 44,
+			"hasAccessToUpdate": true,
+			"addedToLib": true,
+			"series": {
+				"seriesId": 3245235423,
+				"title": "Serial Part 1",
+				"titleEn": "Serial Part 1",
+				"displayTitle": "Serial Part 1",
+				"language": "ENGLISH",
+				"summary": "Serial Part 1",
+				"pageUrl": "/series/20181204-1-6F4P3IMr2B6Z",
+				"pageUrlEn": "/series/test-english-6F4P3IMr2B6Z",
+				"coverImageUrl": "http://jf38h/3453r",
+				"slug": "6F4P3IMr2B6Z"
+			},
+			"isPartOfSeries": true
+		}
+
+
+
+	],
+	"offset": 5,
+	"total": 34
+}
