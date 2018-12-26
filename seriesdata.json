@@ -1,0 +1,51 @@
+{
+	"pratilipiId": 6755373519123345,
+	"title": "Test Series Title",
+	"titleEn": "Test Series Title English",
+	"displayTitle": "Test Series Title",
+	"language": "ENGLISH",
+	"isSeries": "true",
+	"author": {
+		"authorId": 6334457649823744,
+		"name": "राधिका गर्ग",
+		"displayName": "राधिका गर्ग \"radhik\"",
+		"fullName": "राधिका गर्ग \"radhik\"",
+		"fullNameEn": "radhika gargg \"garg\"",
+		"pageUrl": "/user/राधिका-गर्ग-u12zndqv4o",
+		"profileImageUrl": "https://pratilipi.s.llnwi.net/author/image?authorId=6334457649823744&version=70b92ea5-ad85-4c4d-af6a-8fb84ae2d4fc"
+	},
+	"summary": "summary .. summary .. summary .. summary .. summary .. summary .. summary .. summary .. 
+  summary .. summary .. summary .. summary .. summary .. summary .. summary .. summary .. summary .. summary .. summary .. 
+  summary .. summary .. summary .. summary .. summary .. summary .. summary .. summary .. summary .. summary .. summary .. ",
+	"pageUrl": "/series/20181204-1-6F4P3IMr2B6Z",
+	"pageUrlEn": "/series/test-english-6F4P3IMr2B6Z",
+	"coverImageUrl": "http://jf38h/3453r",
+	"slug": "6F4P3IMr2B6Z",
+	"state": "INPROGRESS",
+	"listingDateMillis": 1543911294000,
+	"lastUpdatedDateMillis": 1543920668000,
+	"suggestedTags": [
+		"सुग्गेस्टेड"
+	],
+	"tags": [{
+			"id": 5956116436484096,
+			"name": "सामाजिक",
+			"nameEn": "social"
+		},
+		{
+			"id": 6739392575048840,
+			"name": "प्रेरक",
+			"nameEn": "moral-inspiring"
+		}
+	],
+	"totalParts": 3,
+	"readCount": 0,
+	"readingTime": 300,
+	"averageRating": 4.5,
+	"reviewCount": 30,
+	"ratingCount": 45,
+	"hasAccessToUpdate": true,
+	"addedToLib": false,
+	"series": null,
+	"isPartOfSeries": false
+}
