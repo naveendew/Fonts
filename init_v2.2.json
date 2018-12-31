@@ -686,7 +686,7 @@
 							"id": 1019,
 							"title": "Glimpses of Unfamiliar Japan, Vol 1",
 							"titleEn": "Glimpses of Unfamiliar Japan, Vol 1",
-							"IsSeries": false,
+							"isSeries": false,
 							"language": "ENGLISH",
 							"authorId": 6800000002770110,
 							"coverImageUrl": "435bc7e2-307f-47cb-9535-69a86f749ae1",
@@ -698,12 +698,15 @@
 							"createdAt": 1540211221000,
 							"publishedAt": 1540211221000,
 							"updatedAt": 1545731833000,
-							"totalParts": 0,
+							"totalParts": 12,
 							"isPartOfSeries": false,
 							"Parts": null,
 							"tags": null,
-							"readCount": 0,
-							"readingTime": 0
+							"readCount": 234982,
+							"readingTime": 230403,
+							"reviewCount": 24,
+							"ratingCount": 50,
+							"averageRating": 4.46
 						}
 					},
 					{
