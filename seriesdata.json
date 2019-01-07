@@ -1,49 +1,67 @@
 {
-	"seriesId": 6755373519123345,
-	"title": "Test Series Title",
-	"titleEn": "Test Series Title English",
-	"displayTitle": "Test Series Title",
-	"language": "ENGLISH",
-	"isSeries": "true",
-	"author": {
-		"authorId": 6334457649823744,
-		"name": "राधिका गर्ग",
-		"displayName": "राधिका गर्ग \"radhik\"",
-		"fullName": "राधिका गर्ग \"radhik\"",
-		"fullNameEn": "radhika gargg \"garg\"",
-		"pageUrl": "/user/राधिका-गर्ग-u12zndqv4o",
-		"profileImageUrl": "https://1.ptlp.co/author/image?authorId=5032045519568896&version=717fb5d3-2d6f-4aa6-8338-6f19afb6f16f"
-	},
-	"summary": "किसी से प्यार करना हमारे बस में नहीं पर किसी से दूर जाना हमारे बस में होता है ,पर क्या सच में अपने प्यार से दूर हो जाना और अकेले ज़िन्दगी बिताना संभव है ? ये कहानी एक ऐस ही रिश्ते की है .",
-	"pageUrl": "/series/20181204-1-6F4P3IMr2B6Z",
-	"pageUrlEn": "/series/test-english-6F4P3IMr2B6Z",
-	"coverImageUrl": "https://pratilipi.s.llnwi.net/pratilipi/cover?pratilipiId=5471245869514752&version=2bcdfa24-38fd-4b70-a93a-1d7df87dad1d",
-	"slug": "6F4P3IMr2B6Z",
-	"state": "INPROGRESS",
-	"listingDateMillis": 1543911294000,
-	"lastUpdatedDateMillis": 1543920668000,
-	"suggestedTags": [
-		"सुग्गेस्टेड"
-	],
-	"tags": [{
-			"id": 5956116436484096,
-			"name": "सामाजिक",
-			"nameEn": "social"
-		},
-		{
-			"id": 6739392575048840,
-			"name": "प्रेरक",
-			"nameEn": "moral-inspiring"
-		}
-	],
-	"totalParts": 3,
-	"readCount": 665447,
-	"readingTime": 30000,
-	"averageRating": 4.5,
-	"reviewCount": 30,
-	"ratingCount": 45,
-	"hasAccessToUpdate": true,
-	"addedToLib": false,
-	"series": null,
-	"isPartOfSeries": false
+    "seriesId": 18673,
+    "title": "પૃથ્વી:એક અધુરી પ્રેમ કથા",
+    "titleEn": "pruhvi",
+    "displayTitle": "પૃથ્વી:એક અધુરી પ્રેમ કથા",
+    "language": "GUJARATI",
+    "author": {
+        "authorId": 5593713498128384,
+        "name": "ડૉ કૌશલ નાયક",
+        "displayName": "ડૉ કૌશલ નાયક",
+        "fullName": "ડૉ કૌશલ નાયક",
+        "fullNameEn": "Dr kaushal Nayak",
+        "pageUrl": "/user/ડૉ-કૌશલ-નાયક-pf3c30l8gx",
+        "profileImageUrl": "https://pratilipi.s.llnwi.net/author/image?authorId=5593713498128384&version=55e9c12c-d085-4f10-8eef-70ff4a64ed1b"
+    },
+    "summary": "",
+    "pageUrl": "પૃથ્વી-એક-અધુરી-પ્રેમ-કથા-508w8b8yb3",
+    "pageUrlEn": "pruhvi-508w8b8yb3",
+    "coverImageUrl": "https://pratilipi.s.llnwi.net/series/cover?seriesId=18673&version=0a0d5a05-1147-4201-a51e-e0580dc54e6c",
+    "state": "INPROGRESS",
+    "slug": "508w8b8yb3",
+    "listingDateMillis": 1546621436000,
+    "lastUpdatedDateMillis": 1546621436000,
+    "tags": [
+        {
+            "pageUrl": "",
+            "id": 4992137333571584,
+            "name": "હોરર",
+            "nameEn": "horror"
+        },
+        {
+            "pageUrl": "",
+            "id": 5613047602216960,
+            "name": "નવલકથા",
+            "nameEn": "novels"
+        },
+        {
+            "pageUrl": "",
+            "id": 6118037240414208,
+            "name": "રહસ્ય - રોમાંચ",
+            "nameEn": "suspense"
+        },
+        {
+            "pageUrl": "",
+            "id": 6175997555638272,
+            "name": "પ્રેમકથા",
+            "nameEn": "romance"
+        },
+        {
+            "pageUrl": "",
+            "id": 6739392575048826,
+            "name": "માઈક્રો-ફિક્શન",
+            "nameEn": "micro-fiction"
+        }
+    ],
+    "totalParts": 17,
+    "readCount": 48229,
+    "readingTime": 11505,
+    "averageRating": 4.735662680500142,
+    "reviewCount": 531,
+    "ratingCount": 1413,
+    "hasAccessToUpdate": true,
+    "isAddedToLib": false,
+    "partToRead": 16,
+    "partToReadId": 6755373519285280,
+    "percentageRead": 0
 }
