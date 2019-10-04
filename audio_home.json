@@ -480,7 +480,7 @@
 					}
 				]
 			},
-			"style": "HORIZONTAL_SUMMARY"
+			"style": "PRATILIPI_AUDIO_CARD"
 		},
 		{
 			"type": "PRATILIPI_AUDIO_LIST",
@@ -981,7 +981,7 @@
 					}
 				]
 			},
-			"style": "DEFAULT"
+			"style": "PRATILIPI_AUDIO_CARD"
 		},
 		{
 			"type": "PRATILIPI_AUDIO_LIST",
@@ -1489,7 +1489,7 @@
 					}
 				]
 			},
-			"style": "DEFAULT"
+			"style": "PRATILIPI_AUDIO_CARD"
 		},
 		{
 			"type": "PRATILIPI_AUDIO_LIST",
@@ -1966,7 +1966,7 @@
 					}
 				]
 			},
-			"style": "DEFAULT"
+			"style": "PRATILIPI_AUDIO_CARD"
 		},
 		{
 			"type": "PRATILIPI_AUDIO_LIST",
@@ -2275,7 +2275,7 @@
 					}
 				]
 			},
-			"style": "DEFAULT"
+			"style": "PRATILIPI_AUDIO_CARD"
 		},
 		{
 			"type": "PRATILIPI_AUDIO_LIST",
@@ -2642,7 +2642,7 @@
 					}
 				]
 			},
-			"style": "DEFAULT"
+			"style": "PRATILIPI_AUDIO_CARD"
 		},
 		{
 			"type": "PRATILIPI_AUDIO_LIST",
@@ -3083,7 +3083,7 @@
 					}
 				]
 			},
-			"style": "DEFAULT"
+			"style": "PRATILIPI_AUDIO_CARD"
 		},
 		{
 			"type": "PRATILIPI_AUDIO_LIST",
@@ -3409,7 +3409,7 @@
 					}
 				]
 			},
-			"style": "DEFAULT"
+			"style": "PRATILIPI_AUDIO_CARD"
 		},
 		{
 			"type": "PRATILIPI_AUDIO_LIST",
@@ -3730,7 +3730,7 @@
 					}
 				]
 			},
-			"style": "DEFAULT"
+			"style": "PRATILIPI_AUDIO_CARD"
 		}
 	],
 	"showCategorySelect": false,
