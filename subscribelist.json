@@ -90,5 +90,282 @@
         "state": "SUBSCRIBED",
         "subscribed_at": "2020-01-15 13:04:23",
         "updated_at": "2020-01-16 06:28:36"
+    },
+    {
+        "id": 7,
+        "user_id": 12,
+        "series": {
+            "id": 75349,
+            "type": "SERIES",
+            "contentType": "AUDIO",
+            "attributes": {
+                "displayTitle": "प्रेमकथा",
+                "summary": "रचयिता -     ,रचना पठन - निजा \nवक़्त ने न जाने कितनी लकीरे खींच दी...",
+                "coverImageUrl": "https://static-assets.pratilipi.com/series/cover?seriesId=75349&version=0a8a8efd-4780-4bb1-b372-c30bfa0234d2",
+                "pageUrl": "/audio-series/प्रेमकथा-a7qns8wazknq",
+                "playingTime": 118,
+                "deletedAt": 0,
+                "createdAt": 1575480743000,
+                "updatedAt": 1575480743000,
+                "seriesId": 75349,
+                "language": "HINDI",
+                "playCount": 2561,
+                "state": "INPROGRESS",
+                "narrator": {
+                    "authorId": 5758392207409152,
+                    "userId": 6452157186834432,
+                    "language": "HINDI",
+                    "displayName": "निजा",
+                    "pageUrl": "/user/निजा-4z51kd94rg",
+                    "profileImageUrl": "https://static-assets.pratilipi.com/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                    "summary": "पब्लिक रिलेशन हेड - परिधान एपेरल \n\nकंप्यूटर साइन्स ग्रेड - मुंबई यूनिवर्सिटी \n\n१२/अ - श्रीशांति , हौजखास ,\n\nदिल्ली"
+                },
+                "author": [
+                    {
+                        "authorId": 5758392207409152,
+                        "userId": 6452157186834432,
+                        "language": "HINDI",
+                        "displayName": "निजा",
+                        "pageUrl": "/user/निजा-4z51kd94rg",
+                        "profileImageUrl": "https://static-assets.pratilipi.com/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                        "summary": "पब्लिक रिलेशन हेड - परिधान एपेरल \n\nकंप्यूटर साइन्स ग्रेड - मुंबई यूनिवर्सिटी \n\n१२/अ - श्रीशांति , हौजखास ,\n\nदिल्ली"
+                    }
+                ],
+                "auth": {
+                    "isAuthorized": false
+                },
+                "userPratilipi": {
+                    "partToPLay": [
+                        {
+                            "pratilipiId": 6755373518982987,
+                            "playingTime": 118,
+                            "bitRate": {
+                                "32kbps": {
+                                    "url": "https://static-assets.pratilipi.com/audio/erH8GJd4C1gO/32.mp3"
+                                },
+                                "64kbps": {
+                                    "url": "https://static-assets.pratilipi.com/audio/erH8GJd4C1gO/64.mp3"
+                                },
+                                "128kbps": {
+                                    "url": "https://static-assets.pratilipi.com/audio/erH8GJd4C1gO/128.mp3"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "category": {
+                    "suggested": [],
+                    "system": [
+                        {
+                            "id": 6072796571500544,
+                            "type": "CATEGORY",
+                            "attributes": {
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "createdAt": 1504695048000,
+                                "updatedAt": 1504695048000,
+                                "pageUrl": "/categories/romance",
+                                "imageUrl": "https://static-assets.pratilipi.com/resource-all/pratilipi-category-select-banners/romance.jpg",
+                                "smallImageUrl": "https://static-assets.pratilipi.com/resource-all/pratilipi-category-select-banners/romance_small.jpg",
+                                "categoryId": 6072796571500544,
+                                "language": "HINDI",
+                                "contentType": "STORY",
+                                "type": "SYSTEM",
+                                "isActive": true
+                            }
+                        }
+                    ]
+                },
+                "totalParts": 1
+            }
+        },
+        "state": "SUBSCRIBED",
+        "subscribed_at": "2020-01-15 13:04:23",
+        "updated_at": "2020-01-16 06:28:36"
+    },
+      {
+        "id": 8,
+        "user_id": 12,
+        "series": {
+            "id": 75349,
+            "type": "SERIES",
+            "contentType": "AUDIO",
+            "attributes": {
+                "displayTitle": "प्रेमकथा",
+                "summary": "रचयिता -     ,रचना पठन - निजा \nवक़्त ने न जाने कितनी लकीरे खींच दी...",
+                "coverImageUrl": "https://static-assets.pratilipi.com/series/cover?seriesId=75349&version=0a8a8efd-4780-4bb1-b372-c30bfa0234d2",
+                "pageUrl": "/audio-series/प्रेमकथा-a7qns8wazknq",
+                "playingTime": 118,
+                "deletedAt": 0,
+                "createdAt": 1575480743000,
+                "updatedAt": 1575480743000,
+                "seriesId": 75349,
+                "language": "HINDI",
+                "playCount": 2561,
+                "state": "INPROGRESS",
+                "narrator": {
+                    "authorId": 5758392207409152,
+                    "userId": 6452157186834432,
+                    "language": "HINDI",
+                    "displayName": "निजा",
+                    "pageUrl": "/user/निजा-4z51kd94rg",
+                    "profileImageUrl": "https://static-assets.pratilipi.com/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                    "summary": "पब्लिक रिलेशन हेड - परिधान एपेरल \n\nकंप्यूटर साइन्स ग्रेड - मुंबई यूनिवर्सिटी \n\n१२/अ - श्रीशांति , हौजखास ,\n\nदिल्ली"
+                },
+                "author": [
+                    {
+                        "authorId": 5758392207409152,
+                        "userId": 6452157186834432,
+                        "language": "HINDI",
+                        "displayName": "निजा",
+                        "pageUrl": "/user/निजा-4z51kd94rg",
+                        "profileImageUrl": "https://static-assets.pratilipi.com/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                        "summary": "पब्लिक रिलेशन हेड - परिधान एपेरल \n\nकंप्यूटर साइन्स ग्रेड - मुंबई यूनिवर्सिटी \n\n१२/अ - श्रीशांति , हौजखास ,\n\nदिल्ली"
+                    }
+                ],
+                "auth": {
+                    "isAuthorized": false
+                },
+                "userPratilipi": {
+                    "partToPLay": [
+                        {
+                            "pratilipiId": 6755373518982987,
+                            "playingTime": 118,
+                            "bitRate": {
+                                "32kbps": {
+                                    "url": "https://static-assets.pratilipi.com/audio/erH8GJd4C1gO/32.mp3"
+                                },
+                                "64kbps": {
+                                    "url": "https://static-assets.pratilipi.com/audio/erH8GJd4C1gO/64.mp3"
+                                },
+                                "128kbps": {
+                                    "url": "https://static-assets.pratilipi.com/audio/erH8GJd4C1gO/128.mp3"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "category": {
+                    "suggested": [],
+                    "system": [
+                        {
+                            "id": 6072796571500544,
+                            "type": "CATEGORY",
+                            "attributes": {
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "createdAt": 1504695048000,
+                                "updatedAt": 1504695048000,
+                                "pageUrl": "/categories/romance",
+                                "imageUrl": "https://static-assets.pratilipi.com/resource-all/pratilipi-category-select-banners/romance.jpg",
+                                "smallImageUrl": "https://static-assets.pratilipi.com/resource-all/pratilipi-category-select-banners/romance_small.jpg",
+                                "categoryId": 6072796571500544,
+                                "language": "HINDI",
+                                "contentType": "STORY",
+                                "type": "SYSTEM",
+                                "isActive": true
+                            }
+                        }
+                    ]
+                },
+                "totalParts": 1
+            }
+        },
+        "state": "SUBSCRIBED",
+        "subscribed_at": "2020-01-15 13:04:23",
+        "updated_at": "2020-01-16 06:28:36"
+    },
+      {
+        "id": 9,
+        "user_id": 12,
+        "series": {
+            "id": 75349,
+            "type": "SERIES",
+            "contentType": "AUDIO",
+            "attributes": {
+                "displayTitle": "प्रेमकथा",
+                "summary": "रचयिता -     ,रचना पठन - निजा \nवक़्त ने न जाने कितनी लकीरे खींच दी...",
+                "coverImageUrl": "https://static-assets.pratilipi.com/series/cover?seriesId=75349&version=0a8a8efd-4780-4bb1-b372-c30bfa0234d2",
+                "pageUrl": "/audio-series/प्रेमकथा-a7qns8wazknq",
+                "playingTime": 118,
+                "deletedAt": 0,
+                "createdAt": 1575480743000,
+                "updatedAt": 1575480743000,
+                "seriesId": 75349,
+                "language": "HINDI",
+                "playCount": 2561,
+                "state": "INPROGRESS",
+                "narrator": {
+                    "authorId": 5758392207409152,
+                    "userId": 6452157186834432,
+                    "language": "HINDI",
+                    "displayName": "निजा",
+                    "pageUrl": "/user/निजा-4z51kd94rg",
+                    "profileImageUrl": "https://static-assets.pratilipi.com/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                    "summary": "पब्लिक रिलेशन हेड - परिधान एपेरल \n\nकंप्यूटर साइन्स ग्रेड - मुंबई यूनिवर्सिटी \n\n१२/अ - श्रीशांति , हौजखास ,\n\nदिल्ली"
+                },
+                "author": [
+                    {
+                        "authorId": 5758392207409152,
+                        "userId": 6452157186834432,
+                        "language": "HINDI",
+                        "displayName": "निजा",
+                        "pageUrl": "/user/निजा-4z51kd94rg",
+                        "profileImageUrl": "https://static-assets.pratilipi.com/author/image?authorId=5758392207409152&version=5da7d9a0-11fe-4fe8-8635-c21f5a7032ed",
+                        "summary": "पब्लिक रिलेशन हेड - परिधान एपेरल \n\nकंप्यूटर साइन्स ग्रेड - मुंबई यूनिवर्सिटी \n\n१२/अ - श्रीशांति , हौजखास ,\n\nदिल्ली"
+                    }
+                ],
+                "auth": {
+                    "isAuthorized": false
+                },
+                "userPratilipi": {
+                    "partToPLay": [
+                        {
+                            "pratilipiId": 6755373518982987,
+                            "playingTime": 118,
+                            "bitRate": {
+                                "32kbps": {
+                                    "url": "https://static-assets.pratilipi.com/audio/erH8GJd4C1gO/32.mp3"
+                                },
+                                "64kbps": {
+                                    "url": "https://static-assets.pratilipi.com/audio/erH8GJd4C1gO/64.mp3"
+                                },
+                                "128kbps": {
+                                    "url": "https://static-assets.pratilipi.com/audio/erH8GJd4C1gO/128.mp3"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "category": {
+                    "suggested": [],
+                    "system": [
+                        {
+                            "id": 6072796571500544,
+                            "type": "CATEGORY",
+                            "attributes": {
+                                "name": "प्रेम",
+                                "nameEn": "romance",
+                                "createdAt": 1504695048000,
+                                "updatedAt": 1504695048000,
+                                "pageUrl": "/categories/romance",
+                                "imageUrl": "https://static-assets.pratilipi.com/resource-all/pratilipi-category-select-banners/romance.jpg",
+                                "smallImageUrl": "https://static-assets.pratilipi.com/resource-all/pratilipi-category-select-banners/romance_small.jpg",
+                                "categoryId": 6072796571500544,
+                                "language": "HINDI",
+                                "contentType": "STORY",
+                                "type": "SYSTEM",
+                                "isActive": true
+                            }
+                        }
+                    ]
+                },
+                "totalParts": 1
+            }
+        },
+        "state": "SUBSCRIBED",
+        "subscribed_at": "2020-01-15 13:04:23",
+        "updated_at": "2020-01-16 06:28:36"
     }
+  
 ]
